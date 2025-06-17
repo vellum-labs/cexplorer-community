@@ -1,0 +1,12 @@
+{
+  "id": "id-of-group",
+  "name": "Name of a group",
+  "url": "https://url.example/",
+  "image":"https://url.example/logo.png",
+  "description": "This is example of group definition. You can insert into members poolXXX or drepXXX records.",
+  "members": [
+    "pool1...",
+    "drep1..."
+  ],
+  "note":"Optional notes related to this group. Not visible in FE."
+}
