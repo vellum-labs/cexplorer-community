@@ -1,0 +1,12 @@
+{
+  "id": "testgroup",
+  "name": "test group",
+  "url": null,
+  "image":null,
+  "description": "Test group",
+  "members": [
+    "pool15udpynn4qj4sdtlfz400he4narmagth659nzlx83rmklq2773kg",
+    "drep1t0l0yz6rzvw9e2rss344v8h57w26m5fqr85u0frlw4k5gashtw9",
+    "pool1upqfyzqpk6wkpsvw90qqrpr9tjyemh484wk4em69anwpu586ehq"
+  ]
+}
