@@ -1,0 +1,14 @@
+{
+    "id": "ktn",
+    "name": "KTN",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1nl74emh67vuyt8cgv6gwhjnrctxgrpqlrdzznj4l3lh5j8lj3ah",
+        "pool1q66d2n39uvln4hazyzv8fyq977mpqus78sjd2369qfn7cptdeyh",
+        "pool1pvu2zdexh8wr4ggmuz90jvqrua6an43qj9m9urs785p8kwjzqwl",
+        "pool1x2h98z6e5xvrg5zw3v3dlu8hqdtj6lhp6r3w5ge7rvcqcx3pafq"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

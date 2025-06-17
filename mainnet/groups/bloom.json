@@ -1,0 +1,17 @@
+{
+    "id": "bloom",
+    "name": "BLOOM",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool17kew7rtakc7g6qzydntann5umw08xq3ll2j7spk7en4kvff69fa",
+        "pool19r8kcmqpajlm6h5q0lv8jye0q7evdur39wfsgs4z98fcqpz9lct",
+        "pool13crd2ljx87988umk22er6ynwadfwdqupdpcq6prc6v59z62kxse",
+        "pool12vs4c3cm0tr49c7alrevfs0xa5g3s4al4fn46h33e69uusat04v",
+        "pool1hntu7agmt8u5j9c20ejen7dvq0jfkvkpnul3mrdd8tppqvwfvt2",
+        "pool1uyvyxt9k9g038h567x8halej4x87j7m4r4zyz9lhv4dcv83husk",
+        "drep1y20fpc0f6qjl4edtl9cxzrvqzd8jkzr6ja7p0p2n7cxragqkurae3"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

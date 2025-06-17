@@ -1,0 +1,14 @@
+{
+    "id": "ms",
+    "name": "MS",
+    "url": null,
+    "image": null,
+    "description": "These pools are operated by a multi-asset staking service including other cryptocurrencies.",
+    "members": [
+        "pool1wpmjtfqcwvtcs9znpuulk99yk2zz6pfh0c4k9f2xlcspgqjndk2",
+        "pool1s04pdfl3sv5gzuc80322rc4ne0xs7gekux7gtckvvwt7qutjy6w",
+        "pool19lz8nyz0jjpdrdtnjaar4untk4th23gpg5s7aegn7480zff4vgq",
+        "pool1fpu5xurq3jx5rn626ejcx0dzzzk5lmtvdl2qkj9l4kw2sjp50dz"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

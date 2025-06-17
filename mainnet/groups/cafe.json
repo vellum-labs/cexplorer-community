@@ -1,0 +1,13 @@
+{
+    "id": "cafe",
+    "name": "CAFE",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool18ljuhhw27t85zddz0pvsmsjsz5k0mlz03pzsxgh8qarcsw5wycc",
+        "pool1ufp38a9zwlvvrzcyxaxdrvav50nd7az5lyuzh4t0h3qp2gqamsx",
+        "pool1tdsrw0n33gmy0mzh7cgtn9p0jy5xwjxaa2s26gn2ewf8kg4nrzx"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

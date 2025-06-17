@@ -1,0 +1,14 @@
+{
+    "id": "divy",
+    "name": "DIVY",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1v4xevkf7fx08pzy7atsk59dds6p0sdyl6xmhwf4mh79x6l5p6kx",
+        "pool1ksh2u6kktx74ugv8jadrdqttwyjz9074ke82xt6j0qgfvdn43a5",
+        "pool1v99msed3jqh4fd2qyzdn0t2qfmh3mv2cnfweatl85mdhz6l0ewc",
+        "pool1wnshjhwqv9j7fgd4tkynpsqr0xczns4pghljy5j4z4qjj7qy4d4"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

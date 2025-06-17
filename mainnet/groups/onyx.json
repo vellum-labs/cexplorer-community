@@ -1,0 +1,14 @@
+{
+    "id": "onyx",
+    "name": "ONYX",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool17xextu09ghdfcmsq83whq0a45geg83jxe4qt94sevu087tzdzkl",
+        "pool1g6g2d09le8hd6nv9jhyavewdnw8tu0ndst4lqysd00ru24cav0a",
+        "pool1tdvqgy6mq7lx7d345e276xmgmhh3s4zj8dzu6xzq5m7rx4tzkg2",
+        "pool1q5sspejl875flc0z6wh9y9zxkgqnk0y3aaw8jc0pkxs6cpavm4q"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

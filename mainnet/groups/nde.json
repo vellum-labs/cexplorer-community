@@ -1,0 +1,12 @@
+{
+    "id": "nde",
+    "name": "NDE",
+    "url": null,
+    "image": null,
+    "description": "This is a multi-asset staking service. Extremely leveraged with low amounts of pledge!",
+    "members": [
+        "pool1kkwd6say8twq3z9e36v57adw02j2x52ascd6eumxy5zd66qm4fa",
+        "pool12g6gfm5c4q7rzwwxdmh0xdxk07tyvujp6d9tke2m46k7q7cz7p0"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

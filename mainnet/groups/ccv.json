@@ -1,0 +1,15 @@
+{
+    "id": "ccv",
+    "name": "CCV",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1urgvu6zk422j4xwtxa45lzpd6dm25msfthpkezr042secrtuwzc",
+        "pool1jq7r3evstu2c040vlry8tgvpwf0mfvft86cxecwjpwcuvvqfu2r",
+        "pool1yvf4nxph69ztm0tgj73ummxq45kfjhecyad26e3xc2002xgzalg",
+        "pool1mh4ng2ldxk4sqfppzu6r4knxrk6e87e9c4wgrred84uy7xauzlh",
+        "pool1sjwdmeme5zs042jzwmdvxshhv27kepxke0mr02f2yzacsyd4wtu"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

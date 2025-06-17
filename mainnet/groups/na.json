@@ -1,0 +1,17 @@
+{
+    "id": "na",
+    "name": "NA",
+    "url": null,
+    "image": null,
+    "description": "Coinbase cloud?",
+    "members": [
+        "pool1s8347yjgmfguf0ynj69euw7r75w7usdrfheckpcrjrk2yfvnpwq",
+        "pool1w7dk7rn0cflzzfr4fqvjpapn0rkz5ksmerx5tgwpm2gtj2gly97",
+        "pool12m7z9p7jqymxrvvp6z7vmfdu6j6u6y43p0m6y4xalz43sc8s4t9",
+        "pool1yh7ksvg54nger73ldnf22cgwyh0dnm4aerahdd0kdukjqeacy32",
+        "pool1fxra32qureulvqrhrdpnrl5yechhqreg2khrghv3tkl4z66t0rm",
+        "pool1tn7rcvc5lln8frln5n9rfd9cg8kcrj4vlm3ycdquyx5s2mlhmtk",
+        "pool1u2fuz3fn5dfphf0cu0sewm4rnera445avenggle9sl4hy7rjzgv"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

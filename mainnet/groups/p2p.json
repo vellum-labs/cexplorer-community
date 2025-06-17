@@ -1,0 +1,13 @@
+{
+    "id": "p2p",
+    "name": "P2P",
+    "url": null,
+    "image": null,
+    "description": "These pools are operated by a multi-asset staking service including other cryptocurrencies.",
+    "members": [
+        "pool1x0qm7xsyh2za3ltprxsgael544je4hg8tc3q3v5gv232z8jt4wp",
+        "pool1nhlv5z2lsptzgcp9ype0mppc7zyndm66ypm4sw5hy27ewdchqx0",
+        "pool1c2wf97p3j9gfvfjshj99ufxerpy3aznm8tzr2fd0ua465s26th4"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

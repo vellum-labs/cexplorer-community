@@ -1,0 +1,23 @@
+{
+    "id": "etoro",
+    "name": "ETORO",
+    "url": null,
+    "image": null,
+    "description": "Pools are operated by an exchange. Currently, private without any pledge.",
+    "members": [
+        "pool19l206haluae6wyzm7tjpt3gln9paa5m9s4fedec2u09fqz300ht",
+        "pool150n38x8gquu4yt5s0s6m3ajjqe89y68x96dh32tq8a4es2l6dvp",
+        "pool1hqlvn3qndgkne52uhe5347nlysmmec73ys9vduk96rs4jzjjyxm",
+        "pool19066qvd5dv6vq7fh5a5l7muzk6nc5fw8zq3w4tclyrhvjvlyeuc",
+        "pool1xt7mjrtnsew3v33lu8sf93upf20sxhmcrfnpm82ra46yxk7uy45",
+        "pool1swuyjknhewtqcmh583jjpvlcl0p9h9hrt5l2f3v2hl6gchqrn40",
+        "pool1sskadl6p2w0ttfr60y2ssfzcmrnaty4wt68v5glzd3e5vwkh7z5",
+        "pool16eua0zalaln7q0s9u7jzlyygqad0pu2l2qdxx8r8ueqrw2jdhqf",
+        "pool1jzk8rwf2fs5l02dmm6pm5tnw9stmd8jpmvsy54085vu2u2656re",
+        "pool1fvgmxt3688a5zl6amhvaqk9tmvk3lhxkgdsta6yj3czuy5hjwfy",
+        "pool1nyjw0460ww5qjtpukexuywxdz4lzhy6tm7yygn74lnlcc62hnc8",
+        "pool1wdujj7tmux5nuwnpeksgncendr3mj8ecsjcddpzx9gewc3flp4r",
+        "pool1dzdxps32uqhva9q9urx4lm7m0nhlczjjccwy9kv4t2d3krsn4m7"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

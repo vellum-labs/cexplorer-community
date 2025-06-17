@@ -1,0 +1,13 @@
+{
+    "id": "ifs",
+    "name": "IFS",
+    "url": null,
+    "image": null,
+    "description": "These pools are operated by a multi-asset staking service including other cryptocurrencies.",
+    "members": [
+        "pool1xm4nalvh3yd7pzczlr84w4jlzymwqrnshlpv80u8s6zex997kc6",
+        "pool1nnfwte5lhr8rxjye4a8m8krt5fsu6fs2g39g6ccq09nqqf8sekw",
+        "pool1vkc0dvuf8rxrch87umfayacgglrh8f88ef0f64xrdue5u2xjwfm"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

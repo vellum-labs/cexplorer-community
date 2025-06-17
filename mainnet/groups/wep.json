@@ -1,0 +1,14 @@
+{
+    "id": "wep",
+    "name": "WEP",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1zdtqtsu3l3ytatzyvrq48d4mpnll9c5evwfq6taxkmn9vvdz839",
+        "pool19rz6ve8nz6uvq97yspwh3fvt7w03dsjsnmft6du83hvtc324dus",
+        "pool1hkpgddlnya3pgktj3sxdraa8x8400vhaphcudvym9ye22esak43",
+        "pool189vq6ay0gku9tkqc2t3nfjk3n88mm23grmfas852jruw6fjlkaf"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

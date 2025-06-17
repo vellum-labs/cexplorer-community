@@ -1,0 +1,14 @@
+{
+    "id": "solo",
+    "name": "SOLO",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool16l00309tdqza9606rltqtrqejx7tcr2swa86jrmz459txfnkgq7",
+        "pool1h59405hmvnxz2kyjpll3f65lnqhm7we3u96cws9vzzxzzws9gjc",
+        "pool1etfxpqw7456eh337p7x5jsvxxa67fsduvnmucevrqweckex3nhl",
+        "pool1luyjjta9jja0nvh4wzqt4jvtesrlt893dj4c7x533dvfq9zshvp"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

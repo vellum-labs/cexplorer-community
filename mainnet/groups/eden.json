@@ -1,0 +1,16 @@
+{
+    "id": "eden",
+    "name": "EDEN",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool16kus5xvdysgmtjp0hhlwt72tsm0yn2zcn0a8wg9emc6c75lxvmc",
+        "pool1cmaafeyy52ppz62jqmsm20c5p8nua7xx95lkkf96ktmqqj3w5td",
+        "pool142xwjhpcvtp7tahpmn8tlnek7smefp9wn66z67j8vjpmjxqdg56",
+        "pool1c7jrfce3zxkk9s9enzpvwj8fuayvx3pdzc2k2es6mrw6gsfcjep",
+        "pool103455uc7a3477q8pdmzvny884qtlv9vhm2csxvqx2cadwuk36sq",
+        "drep1y2qj5ckynuhrgzsh9mwucxmnw620ugaw74e89d4kglugv3snnf2zj"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

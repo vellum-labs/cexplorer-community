@@ -1,0 +1,25 @@
+{
+    "id": "upbit",
+    "name": "UPBIT",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1hnaps49hfe3uljp4cleu4amhes6wvatufyvgt2tjdtj3xjrgknk",
+        "pool1r9kse9x8ja0ajkyw8w96zw5c2aqeey6j85nmyqxhwt0rs090fu4",
+        "pool1ua5exfeju4jc95yy595cykjh4x46998g8hrrvw2v5h9k7987a44",
+        "pool13z9mfsve9w39sl5akgz58yewad9daycxn8ja426ytdxey47yatu",
+        "pool1hnukelq3ap6pj3wnetj448efj4nalngy756jln9zd2mjsp73etg",
+        "pool1ek9pyk0xwjelrw7uqktvjwqj8wlcqqftjxqeq3t2vffw7qm8efs",
+        "pool1cp4q7w2jvlthul9mlskj6xutx9rdr7n4vruqqe09pfg5ywmzdzq",
+        "pool1sjnh0ymk9fhhnusm7uksux5yhpfyhjfmseq5nuupsj6ezskc0pj",
+        "pool1k2224hj6uhdgkflj6ncqvmfhqvhlhj0t8crhqux5mphwwumupec",
+        "pool1859zslu3scj23wxcamw0slkhn80waxwkdl4k8k0asyw7sfa8dv5",
+        "pool13t8yafhx3mfnxs8nnkvgqnm9v5gspk7cdjc5dmpzpt0a6h294yn",
+        "pool1jldj0znj8rltkuj4sumqq5z6p8sdt3yk4qde90q42daru5kgfl6",
+        "pool13mxx49xrq4hp6mca8qrzxxmjhfrts0ayh5n6ff9uyuusq9cx4d8",
+        "pool1wthsvhhxueqfd9eqjdj8pgyprhr4gptn5g63z9rdrtelcfumnvg",
+        "pool1fgp4f4afdrq26axqlnm80fz49hdkyq4am3ca3r33w0w8sw2x8ap"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

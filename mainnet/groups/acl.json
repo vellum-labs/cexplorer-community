@@ -1,0 +1,14 @@
+{
+    "id": "acl",
+    "name": "ACL",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1pshqcksxywy68lt04lw6uf35f4yssekh5dx2mxqmyrukke2z5y3",
+        "pool1hht4pctn70tqdsd0zwuxv8d8cz6l5scjzaquty7vamyzy78eqvc",
+        "pool1pemnlylem2e94xguhd3fytj90848kpv4agvr6rthx2tp58z79ek",
+        "pool1tah22gjtc7ntrdezv49hysegcwpzafea35t6f4hn3wr2y4hz3vz"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

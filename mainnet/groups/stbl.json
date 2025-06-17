@@ -1,0 +1,15 @@
+{
+    "id": "stbl",
+    "name": "STBL",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1x9tc05u8dqefrdyw9pgxn72szr7p2peyd7xgqs3l28s76f59c0y",
+        "pool1ajpxqyq3p3aczgaxuc66lwtgzhrapzu6duk90dz0wz5twh9jzyw",
+        "pool1w92z3lxwrycf3kmf075dja2fwem0luyjc4ysv2afh6sg554qjwn",
+        "pool18au4xxwcu552tjyxgyfssc95lwcf08g49z0ln5f7l060qh8r3wv",
+        "pool166fpvc9lelw8pdvc4n3xeqns5ktkkmzu4plaen999fwy2xytgce"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

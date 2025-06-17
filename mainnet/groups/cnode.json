@@ -1,0 +1,13 @@
+{
+    "id": "cnode",
+    "name": "CNODE",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1qa6lqyu67ghpa0evxfu9nzqkj3h82qpfku82ec79zdwru4pd25m",
+        "pool1jufp9k6gmyusvch65ra8yk2s7wu6cx5fsgnltl83p93ejg6h3xg",
+        "pool1lkcd3w5g6s6v3hf6kwt55dqpalrmq9h9f3ec033nnzhvgjgl860"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

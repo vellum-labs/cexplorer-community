@@ -1,0 +1,14 @@
+{
+    "id": "pop",
+    "name": "POP",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1a600v0jd2z3yajazd80phln3exekumm7g56d9yvlrh6vx8dx2fc",
+        "pool12lsfsh2s8yt8dvrt9m8kgrgr6ktntngvn2vad60xlqz7kxz9fxr",
+        "pool19ejln2jcpg5dphc8m5nh8sya49sycsqj0v2cjxw6nku966cc8nu",
+        "pool1etfar35l4tf6vam3gvqf5dnaq7levz32vgw4p00jzk7q7twg2te"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

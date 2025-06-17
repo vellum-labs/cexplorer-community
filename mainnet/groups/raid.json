@@ -1,0 +1,17 @@
+{
+    "id": "raid",
+    "name": "RAID",
+    "url": null,
+    "image": null,
+    "description": "This operator is highly leveraged with very low pledge amount in majority of pools. Signs of sybil behaviour. ",
+    "members": [
+        "pool1h0jfkyfqt729vxhq8ndxffcqn2afjhzzlwqecrvsufgu5sag0sj",
+        "pool1cl3fhy6me0nf5jnxahk997r0529aumt967kw4yml5vraq94mdk4",
+        "pool1qel9h28zarup4g5dx95smeggfruq26k47lc8e6wmdzaaywyj63r",
+        "pool1ec5lvdyd9dghpezzeqfzn48yvw34ff6u6m9tlh08kjjaxx4nxmk",
+        "pool1vd3rfulk3x3k6mafusvrtnzysx9qkcgcks9an2alcpm55msk63g",
+        "pool1ps39v4j035ejzrga2qt56cfhjuwx38wved8rd0mujtyh6r5mt3c",
+        "pool1ftfgs9lp0l4l07glvemrzu86pqvxrvzsn85lc3hathlq5ddsw49"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

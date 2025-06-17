@@ -1,0 +1,14 @@
+{
+    "id": "adv",
+    "name": "ADV",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1xytvsd9qnvqxpthh9p8k85e823trvn3npxeur8kr9zhkqz5uls9",
+        "pool18vej0s9gska8c847aj95g9v24duuxg2g63d5cuqngnxew643jw9",
+        "pool1ahazpr2yz5gljk2m4q8g7wnmq7m2sr9unhdfmr5arhqrjnntwdz",
+        "pool19k9grwq9cdswn4k7vxzmwcls24jj3466g4s4xr5vucehcqpslfy"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

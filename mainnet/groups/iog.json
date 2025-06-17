@@ -1,0 +1,19 @@
+{
+    "id": "iog",
+    "name": "IOG",
+    "url": null,
+    "image": null,
+    "description": "All IOG pools are private but IOG1.",
+    "members": [
+        "pool12ql6www8aa8usn98azlkz76d2htxtm9swalvyac27rlq6mdkxc7",
+        "pool1ha70qvqwnmnwpa7e575y9tgyx47aw29rvkz73mnf42z5wet5dr3",
+        "pool12jqfrwhuv2jn0uymwmud2d63gp5drj08fjfart9dxgpu2tmj8a0",
+        "pool1mxqjlrfskhd5kql9kak06fpdh8xjwc76gec76p3taqy2qmfzs5z",
+        "pool1gpzkwf3ntp7ky6yvyky8q6qu4dyup5y6v4pxzn56yut8sqp6k53",
+        "pool1nee5kmpzv0qfz7lu258fe9ylgxh68lsqqdmjgw7jnheej3usn35",
+        "pool155efqn9xpcf73pphkk88cmlkdwx4ulkg606tne970qswczg3asc",
+        "pool1646vlaras0deljthqtfl9dpdw2xsna799l0kayyu9v44cql4ky0",
+        "pool1h5uycju7n5puxn2ckfkpza550rf6jk4twr6ef0hsmxft78ajt6q"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

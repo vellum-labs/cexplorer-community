@@ -1,0 +1,13 @@
+{
+    "id": "hrms",
+    "name": "HRMS",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool16fyda57p3c8gp5r6gmcq5tvqsp6mnzwvkxswgznkuh8wztrp6vv",
+        "pool1hcg8sa642l0xeygkzvpgn3sfj5s2yeuzpws7a0gypyy7grrjcje",
+        "drep1ygs5hngva3hymv7j4v0aewxpsjqskj9dnmy7j3jz5ven5zqvulq2t"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

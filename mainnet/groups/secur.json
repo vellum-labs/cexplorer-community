@@ -1,0 +1,15 @@
+{
+    "id": "secur",
+    "name": "SECUR",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool14n77mmxh6a2d9k05jamzdwsws2ayvkyje8uc7led958p63at3aj",
+        "pool15yyxtkhz64p7a8cnax9l7u82s9t9hdhyxsa3tdm977qhgpnsuhq",
+        "pool1lhz4gsk5ezdl5s4mv2kxgrkhzzhad6me2v0xmwuyt845vensdlc",
+        "pool1xjhzgchsl2ccvc5pj3aqytv9hh0jnaz63wtfnw4th07tjypm46x",
+        "pool13qdkwy5y88ncr5qpjrh8hgtf94d0zw4wuhgezjg3hvlyyrh37c7"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

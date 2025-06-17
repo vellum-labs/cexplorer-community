@@ -1,0 +1,15 @@
+{
+    "id": "sps",
+    "name": "SPS",
+    "url": null,
+    "image": null,
+    "description": "This operator is highly leveraged with recently added pools with very low pledge amount. Signs of sybil behaviour. ",
+    "members": [
+        "pool1lqucyxuvjktfmpf7fd28j54cfgamyrxed344vnwlm9wqkwjeqwk",
+        "pool155cu3s06js3llfh07vnzepatfuvt3s5s7uwldt9rzz55wz7pugt",
+        "pool1xftlxx9slpz59thcgtwgdj3k9e0ntn3p4qnmzs3r84dkx0hccjc",
+        "pool10quq4wlghwrvmhdzc7geq22pyhzegccwj56ax2g8hx0cjfahufs",
+        "pool1mqy259k253xryf4hvdq0n72n2uvadcgp34r0fxwpqzm0z5n0qp6"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

@@ -1,0 +1,23 @@
+{
+    "id": "leo",
+    "name": "LEO",
+    "url": null,
+    "image": null,
+    "description": "This operator is highly leveraged via low pledge in their pools. Signs of sybil behaviour. ",
+    "members": [
+        "pool1sxrkzy0ty37s2qx66cscqwucdqlvemtjl96ep36mqfrnku9lq8t",
+        "pool1r9dfv5360alp5dh020k050d4n4yh9h4gms9lf0srm43z5zk4d3s",
+        "pool1ax8znp3yeeh0udrr2vvtm4wkxjldwv4mywycn573km7fu20y5xa",
+        "pool1xc6la5z92seku86c4rdnuvxjdc3fh8pdtanlgxdy99cxjrkhzkd",
+        "pool1ffuv59d0rdp0jsgxa9x5r8pvmaexvuufeu43kpxl3u2qut3ljq4",
+        "pool1s6s6eyve0lmc4e0emzf2l68n9ya0rhrpdcq0jmkmmmxv2rkrx42",
+        "pool1xdwe294ntvnken52vsaar7edxpxeths4dvsm84pm4chyq70r0ny",
+        "pool1u32s3ry3vjhqwhcrqz7p5u35cvzrx4tvdwydgvq6qm8720qrg0s",
+        "pool1yzu4lp7f8ua7negffj8mmwfylx4ckhsu00a4gtf630rlcwnl7gd",
+        "pool1cjjtz6enkc76yytlf2zd86ngdu60e705vq7wq940ncu6506s6n2",
+        "pool1lq7t0qg273vp8t2wzmeyj7sdq2vhu2v87jjplgurpfxcs9afnr3",
+        "pool1lqeg5d3jpwr3nvra568nk28sr8lttyr6cf4yyssdx6qtxea9nmr",
+        "pool1t6stu46gth7awdlrdmxmjhgrk9rjhez9qfnlhkhfvf0fj4q3h2a"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

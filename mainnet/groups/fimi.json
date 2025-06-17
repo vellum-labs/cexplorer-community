@@ -1,0 +1,16 @@
+{
+    "id": "fimi",
+    "name": "FIMI",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1rct5guwnp6nk9f4ldn5tr3s42j0nm5rxeayv56lxua5ck47ex39",
+        "pool1fmgus36uc0jf0wlspfvzwfn04mz34kwrensmqgfzkv7t58dejw4",
+        "pool1jj2hvts3ryffy5txm7w0am3zt7s7sehdf8rrwfesjmr7shv0mgl",
+        "pool14p4ksk3ddqtax905sys7ujakpxwvfsntjnvlu8p9d3wxycy7pv3",
+        "pool1vz9txqmdhxwegpy7uzrsap84z309veehqv3uh4s60qwxk0u7h06",
+        "pool1mvl09pgsejrudghjhq79qurugrvqy3pceznp7f9vz63n7ku7jqx"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

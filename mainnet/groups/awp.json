@@ -1,0 +1,13 @@
+{
+    "id": "awp",
+    "name": "AWP",
+    "url": null,
+    "image": null,
+    "description": "This operator is highly leveraged with very low pledge amount. Creator of Atomic Wallet. ",
+    "members": [
+        "pool13annzt9hjfc822f0ejvxjf7fsmxd6cc28whpk5kagec6ggfmm7u",
+        "pool15wkxegrfflzcyhurrjxsm9ljqtz09xr5rtnqsarnp7hmsz5um3t",
+        "pool14enw2643rn9nn6yzv60jyz3hj4kxs0jvap87lkgsqykh508jxm6"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

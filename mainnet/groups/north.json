@@ -1,0 +1,15 @@
+{
+    "id": "north",
+    "name": "NORTH",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx",
+        "pool17rjst78s67lvellg8s586rf076jxa3wnsdz730f4xk2zwuhrtej",
+        "pool1lfvzgsrghmugvpym868mh29288ez0nncz680mamzjygu2jpuwcd",
+        "pool1k633phcvz2hjhj45evwwau4w576jpq83acg5h84w23jauqu56cw",
+        "pool1nz9h4raywm6mu2v8l7htuaqvmn06l3mepuaxynpzlwljsf8txhy"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

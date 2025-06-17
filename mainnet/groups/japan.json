@@ -1,0 +1,15 @@
+{
+    "id": "japan",
+    "name": "JAPAN",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1k0xrqp03mn9u3q3sadndd6vu9udl5v38xpzyw0shm8sskuxw2av",
+        "pool1llxh8l0h8g9ghz3nrzh7ndvev4x43vnk72nsemzm795vxqs6dp8",
+        "pool1larpvn53yyufaf8fh89nrrpgruqcq8mgxrtdxp5y87cqse3yfg2",
+        "pool19uynx6nxcdksmaqdcshjg487fap3rs3axyhrdqa7gdqgzgxss4y",
+        "pool1xrrrr8gldqz8pjxj6j8c638a9py04xuv66kfgn2dlsx9g52te0t"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

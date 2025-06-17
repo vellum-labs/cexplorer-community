@@ -1,0 +1,26 @@
+{
+    "id": "new-guy",
+    "name": "NEW GUY",
+    "url": null,
+    "image": null,
+    "description": "Extremely leveraged pools via minimal/zero pledge amounts. Signs of sybil behaviour. ",
+    "members": [
+        "pool12h408zlkavwxw4wkw96mt8unjs8sn27k0yk4yhz4pzvsx0wvmq5",
+        "pool1jwgt6tydz6f4kw7la2hxxqwzq0m8spj3reyju08nm07xjnlg3d0",
+        "pool1alukhlxd53jat03vgt5h4dxxqyaapzefhk9yrl40e4r3x5cr5au",
+        "pool1fpkjz7j77m5ukhjx5xvspfttrs0578kyxa9hgn0458hk55wp784",
+        "pool1klq8yy3rr6k4ez7uwkzz5ku3yuym3eeg6g2ne3p9f4hnzfycfkl",
+        "pool1m4r66650ugw2xshz3gtred6wdxcn65v48r0r6p4vy64dy276q8h",
+        "pool1tpd9mcw6y5mx05gv9rgfkl6y0vsdswqs8qdexmf8vstkqk0snau",
+        "pool1cljrz5vyw7jp2mp23nt9ywn2wdg5ulamhalw6d3mng326laxs77",
+        "pool1xk3ck79lra9c9x5c684lylvg8vlexmh0eh7w90t6s0zvw6k5vn7",
+        "pool1gwljutrkqx7km7ec2e8u93y0tvd8w07mgz2aaeqj75h9q7tntmq",
+        "pool1dzkrcxlqgamf3dwgyh89nrx2xkwm7cfju9mp54eyqwulku73jxs",
+        "pool1qlxxw3zlgx0kgv2cel0n6z3a6yjs0w8grwtp5xwna8fm2g5tsda",
+        "pool1hy08gpvzkutxkg3ccxwmkzqaun9cd0styl4dtpqp2yxq2rjxehj",
+        "pool1fts0a4clzu7wyhdqw48cpg2kwvstzeqddtwj34pxfw9jgvznu0q",
+        "pool1796kveuwxrquwhwnne5g99er50q6alcaf7yjf3kd6xr5vemfaqc",
+        "pool1qprj52nh0j32p5vq290rludcfz58kujyszt5ztfvj2ymx43649f"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

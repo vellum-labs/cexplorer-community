@@ -1,0 +1,13 @@
+{
+    "id": "muen",
+    "name": "MUEN",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1l6vtae673eltsx86sk4xxr3fnn9tk8e99jkrdvcmjqlc6cca4nk",
+        "pool1e9wmzv9r2pkvhwddc3ay42axm9aggheae6u4e52tgx6326krg03",
+        "pool15z87p296y3m7eq8pwuu8qs6h2v4d2ctnx3yd2vqpl6txkkdvl5h"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

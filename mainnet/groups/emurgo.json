@@ -1,0 +1,15 @@
+{
+    "id": "emurgo",
+    "name": "EMURGO",
+    "url": null,
+    "image": null,
+    "description": "These pools have high leverage via low pledge. One of the founding entities of Cardano.",
+    "members": [
+        "pool1kx0jm9ycs3t99tnwafw6w72jkdlzhj5ltxe2nrzkd9x2u5x343h",
+        "pool1m0drnjxsvnlesq0rwmur2rh6lenuql57jfzd6cf6aegj2cv7ugy",
+        "pool192pfftt48zc4x5aellvpufk6l6zxllpldw0rx82vrhqrqfhhqs2",
+        "pool1xkwnlr34tjrnkz6u4c0p36cju3xuls4dyynsdkf6cv22ksuhz6q",
+        "drep1ytvlwvyjmzfyn56n0zz4f6lj94wxhmsl5zky6knnzrf4jygpyahug"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

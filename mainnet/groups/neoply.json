@@ -1,0 +1,12 @@
+{
+    "id": "neoply",
+    "name": "NEOPLY",
+    "url": null,
+    "image": null,
+    "description": "These pools are operated by a multi-asset staking service including other cryptocurrencies. Highly leveraged with very low pledge amount. Signs of sybil behaviour. ",
+    "members": [
+        "pool1m7eljcrzd593cawzwpts00mmnxnj52kr9da8r264r7c4kfd4m0h",
+        "pool1gjmerqh4wxl553enqeqgc6m3r3gt6yspdg29jy6nuypa6k2tpdt"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

@@ -1,0 +1,14 @@
+{
+    "id": "sipo",
+    "name": "SIPO",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1w6l6rvhxtym5psec3mvgrjlg28d6hrv8g9jjexadzmxfgndfg2f",
+        "pool1p5ja48uqc7pjnuqvwu7cgmspvx938qpnf4zqm0x2k0ngkh4lkjx",
+        "pool18rhzlrv83a7ygj7cp5uv8dx07qkn5drhe8nh6f3qvhv66xcyj2m",
+        "drep1yffld2866p00cyg3ejjdewtvazgah7jjgk0s9m7m5ytmmdq33v3zh"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

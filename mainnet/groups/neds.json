@@ -1,0 +1,15 @@
+{
+    "id": "neds",
+    "name": "NEDS",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1gas95lqlch5pj5e4lwg78gxlq7km9xfurfd557x4tgwk5kktd04",
+        "pool1cn0dqtplwf67fds40hgkf0u5rm4q4azev5qutmgkw5hdyvue2ue",
+        "pool1qfxukshs4fkcrflzdnxa2fdza5lfvew3y6echg8ckaa4q8m5hyf",
+        "pool1vdh6kxcqt9mxavyv80ggnec6jjwms44ms30rhle3lt266aj8jgh",
+        "drep1ygxeadaklzz93n2tn9vnqz0fxapyv7ltel4d9808aeftl7gnxkszd"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

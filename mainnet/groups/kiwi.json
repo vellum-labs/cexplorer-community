@@ -1,0 +1,13 @@
+{
+    "id": "kiwi",
+    "name": "KIWI",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1jgwu8lq3dqddnnx7prymcgcyrqy0fdlghg33he2hmw9t2gma3zd",
+        "pool1y53awxsm6cmksp8qht8qfq5f5c69t6mrgrdcresk5y0ecv2yj93",
+        "pool1vquhv3kh6xkklckaenl8alyuhfsld57ef5573aqauueyqacx4ak"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}
