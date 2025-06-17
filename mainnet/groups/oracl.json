@@ -1,0 +1,12 @@
+{
+    "id": "oracl",
+    "name": "ORACL",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1t74ckqauwmn9ef5ye0h7c5wsgfd36zx24ue9wvj4vj95cl54aff",
+        "pool1cyha5jsy6g06w699tw4awy2jw7gxj0azm38yzetr7zls7rkl0t0"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

@@ -1,0 +1,12 @@
+{
+    "id": "ibex",
+    "name": "IBEX",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool16v0jqnz2zuqsdrf6z94ec5rx9ds0xeghsvmddauzt6j5w2u7lsm",
+        "pool1pyegru75d64xgg4jh83904nst8fs8qz6mvtxquatv44rkartevc"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

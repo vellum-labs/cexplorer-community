@@ -1,0 +1,12 @@
+{
+    "id": "emp",
+    "name": "EMP",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1f3qeehc4htjqpwv248kf5lfaumd0e84jtze379ev3ywa2w69aam",
+        "pool16fa03u6u85ek2q8lryqprngpahglssj5qqh66pfaxf34vgu5rhl"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

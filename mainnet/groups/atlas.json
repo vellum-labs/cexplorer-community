@@ -1,0 +1,12 @@
+{
+    "id": "atlas",
+    "name": "ATLAS",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1853ffwhtuka742fq4av7s3ssdpvzhdkpw53th3es36zkwrllj9g",
+        "pool1u6kpt8hgqcm596kukj97ghefmxn8ks2cgwg8qqe0gtgscnufk5p"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

@@ -1,0 +1,12 @@
+{
+    "id": "pilot",
+    "name": "PILOT",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1eqa7kxx4xg35cu4rqj4exkvzhenscgh8wxez0gl7hsagygp79kr",
+        "pool104gtn3hvp9lz5l6wevhjj98e45s7rfaa4zzvk9pex7nn786qncr"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

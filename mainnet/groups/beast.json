@@ -1,0 +1,12 @@
+{
+    "id": "beast",
+    "name": "BEAST",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1h3aejp7fln74mwaraqjn65ve3j5zwqr7wk0pasct87wpkv0aspm",
+        "pool1cq25dmlt5974x8tqg3e4dlzvrxefcce2atpnwlfp7ad5ugec9fp"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

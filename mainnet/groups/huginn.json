@@ -1,0 +1,12 @@
+{
+    "id": "huginn",
+    "name": "HUGINN",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool14mumny7t9l4ydjkqkllylxzzvwf0s5te9vujqet82eszj3d6ccm",
+        "pool1vw0rqsvfx0ngct7gfmlz5j2e4gap6sd9pwrmemhd488eyxvm88r"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

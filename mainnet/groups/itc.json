@@ -1,0 +1,13 @@
+{
+    "id": "itc",
+    "name": "ITC",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1psk0c2p7pwactw00nkzjexdw0msn7g8nddc06eyvds6yswr3tjg",
+        "pool16j3mvwws7zc9pjluyhddgea0tq647v0dh3y4nkcuckg9znjcun2",
+        "pool138m7hevnvp664cmtralju857t5k7e4frpnaevtgpuykggr50kne"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

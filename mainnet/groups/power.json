@@ -1,0 +1,12 @@
+{
+    "id": "power",
+    "name": "POWER",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1uk2f28awascuhrhuwrp7x6y87x8ch33vwx8jtmrysp7l5ngq78j",
+        "pool1my7sevxtc4dfvj626q0ujqqukntfa2v0uuydq6wd8x8hvml03rn"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

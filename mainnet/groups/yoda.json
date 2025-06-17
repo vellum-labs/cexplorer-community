@@ -1,0 +1,12 @@
+{
+    "id": "yoda",
+    "name": "YODA",
+    "url": "https://www.cardanoyoda.com/",
+    "image": "https://raw.githubusercontent.com/Satuchac/DRep/refs/heads/main/yoda_64x64.png",
+    "description": "",
+    "members": [
+        "drep1y2m0g4r66pyaw3p7u454wc0p4f0ygm8ueaev0mgd3tvwm7sskqwqp",
+        "pool1c3fjkls7d2aujud8y5xy5e0azu0ueatwn34u7jy3ql85ze3xya8"
+    ],
+    "note": ""
+}

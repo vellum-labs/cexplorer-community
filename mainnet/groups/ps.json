@@ -1,0 +1,13 @@
+{
+    "id": "ps",
+    "name": "PS",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1yenqraf3znn07qmvtd8wg23fymsr0vsme7ry2475r48vk6ss0z2",
+        "pool1lr5ku0p3jhykdf3a2kcr0tyra30qvzrtl02dr6uyv98rxdsy3k9",
+        "pool1qqvukkkfr3ux4qylfkrky23f6trl2l6xjluv36z90ax7gfa8yxt"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}

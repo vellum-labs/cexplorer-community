@@ -1,0 +1,13 @@
+{
+    "id": "thc",
+    "name": "THC",
+    "url": null,
+    "image": null,
+    "description": "",
+    "members": [
+        "pool1n96ql32ct37n8w0l9ddhnc2t8tv0uyd6kuhzua8uxy63xs35wgl",
+        "pool15676jwlm6gancffzs2jg9vf5xwzmspyktw75dl4kaucyst4qt8q",
+        "pool15zn2lqq4849ujttuthaycpamnyr8ae9k2pn2fkrlfzzsx4ek0tc"
+    ],
+    "note": "auto-generated initial version. edit the file as needed."
+}
