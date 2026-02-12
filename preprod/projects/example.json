@@ -1,0 +1,74 @@
+{
+  "project_id": "string-unique-id",
+  "name": "string",
+  "organization": "string",
+  "verified": true,
+
+  "category": "defi | dex | nft | infrastructure | wallet | tooling | data | marketplace | governance | other",
+
+  "description_short": "string (max ~200 chars)",
+  "description_long": "string (markdown supported)",
+
+  "logo": "https://...",
+
+  "official_links": {
+    "website": "https://...",
+    "x": "https://x.com/...",
+    "discord": "https://...",
+    "telegram": "https://...",
+    "github": "https://...",
+    "docs": "https://..."
+  },
+
+  "products": [
+    {
+      "name": "string",
+      "links": {
+        "website": "https://...",
+        "app": "https://...",
+        "docs": "https://...",
+        "github": "https://..."
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "string",
+      "url": "https://github.com/..."
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "policyid+hexname",
+      "asset_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "amm",
+    "cardano"
+  ],
+
+  "status": "active | deprecated | beta | building",
+  "launch_year": 2021
+}
