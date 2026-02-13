@@ -1,0 +1,133 @@
+{
+  "project_id": "cexplorer",
+  "name": "Cexplorer",
+  "organization": "Cexplorer",
+  "verified": true,
+
+  "category": [
+    "infrastructure",
+    "tooling",
+    "governance"
+  ],
+
+  "description_short": "Comprehensive Cardano blockchain explorer providing detailed views of transactions, blocks, stake pools, governance, smart contracts, and analytics.",
+  "description_long": "Cexplorer is a comprehensive blockchain explorer for the Cardano network, providing detailed visibility into all on-chain activity since the Incentivized Testnet (ITN). As one of the most feature-rich explorers in the Cardano ecosystem, users can explore transactions, blocks, epochs, native assets, smart contracts, stake pools, and DReps through an extensive interface designed for both casual users and technical analysts.\n\nThe platform offers rich governance analytics, enabling users to track proposals, voting activity, and DRep participation. Stake pool operators benefit from dedicated analytics tools that provide insights into pool performance, delegation trends, and rewards distribution.\n\nCexplorer presents blockchain data through multiple perspectives, offering various analytical views that help users understand network activity, asset movements, and protocol metrics. Whether examining a single transaction, analyzing staking patterns, or monitoring smart contract interactions, Cexplorer serves as a central resource for understanding everything happening on the Cardano blockchain.",
+  "icon": "https://cexplorer.io/assets/cexLogo-CcOS9fQG.svg",
+
+  "official_links": {
+    "website": "https://cexplorer.io/",
+    "x": "https://x.com/cexplorer_io",
+    "discord": "https://discord.com/invite/zTaSd8wfEV",
+    "telegram": "https://t.me/cexplorer",
+    "github": "https://github.com/vellum-labs/",
+    "docs": "https://cexplorer.apidocumentation.com/cexplorer-api"
+  },
+
+  "products": [
+    {
+      "name": "Cexplorer",
+      "description": "Cardano Blockchain Explorer.",
+      "links": {
+        "website": "https://cexplorer.io/",
+        "app": "",
+        "docs": "https://github.com/vellum-labs/cexplorer-fe/blob/main/README.md",
+        "github": "https://github.com/vellum-labs/cexplorer-fe"
+      }
+    },
+    {
+      "name": "Cexplorer API",
+      "description": "Comprehensive API for Cardano blockchain data",
+      "links": {
+        "website": "https://cexplorer.io/api",
+        "app": "",
+        "docs": "https://cexplorer.apidocumentation.com/cexplorer-api",
+        "github": "https://github.com/vellum-labs/cexplorer-api"
+      }
+    },
+    {
+      "name": "Cexplorer Mini",
+      "description": "Mini Cardano explorer for local and testnet environments",
+      "links": {
+        "website": "https://mini.cexplorer.io/",
+        "app": "",
+        "docs": "https://github.com/vellum-labs/cexplorer-mini/blob/main/README.md",
+        "github": "https://github.com/vellum-labs/cexplorer-mini"
+      }
+    },    
+    {
+      "name": "Cexplorer SDK",
+      "description": "Cexplorer UI Component Library with theme system",
+      "links": {
+        "website": "https://www.npmjs.com/package/@vellumlabs/cexplorer-sdk",
+        "app": "",
+        "docs": "https://cexplorer.apidocumentation.com/cexplorer-api",
+        "github": "https://github.com/vellum-labs/cexplorer-sdk"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Cexplorer Frontend",
+      "url": "https://github.com/vellum-labs/cexplorer-fe"
+    },
+    {
+      "name": "Cexplorer Mini",
+      "url": "https://github.com/vellum-labs/cexplorer-mini"
+    },
+    {
+      "name": "Cexplorer API",
+      "url": "https://github.com/vellum-labs/cexplorer-api"
+    },
+    {
+      "name": "Cexplorer Embed",
+      "url": "https://github.com/vellum-labs/cexplorer-embed"
+    },
+    {
+      "name": "Cexplorer SDK",
+      "url": "https://github.com/vellum-labs/cexplorer-sdk"
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "",
+      "asset_name": "",
+      "description": ""
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "",
+      "script_name": "",
+      "description": ""
+    }
+  ],
+
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+
+  "pools": [
+    "pool1cduc7ut6grhqyavrmm3gzcdf4qfdsjk7vdwcxy9c0r5fyaxh2sq"
+  ],
+
+  "tags": [
+    "Explorer",
+    "On-chain data",
+    "API provider"
+  ],
+
+  "status": "active",
+  "launch_year": 2019
+}
