@@ -1,9 +1,9 @@
 {
     "id": "kiln",
     "name": "KILN",
-    "url": null,
-    "image": null,
-    "description": "",
+    "url": "https://www.kiln.fi/",
+    "image": "https://raw.githubusercontent.com/kilnfi/public/refs/heads/main/icon-360px.png",
+    "description": "Democratising value creation in digital assets",
     "members": [
         "pool1fcp4d2pxh0e7q5ju63sjqcdpxpr3pvxg6ykl23t6c97d7dnvjvw",
         "pool1v62c7d92xv6gyh4x9rhfpkwzlpw2ypxk92xvzavakg3xypatklv",
@@ -12,7 +12,10 @@
         "pool1mtuhuh8hkf8am0qzx45y58kll8q83sjh6pwljrflcmw970d82f3",
         "pool1aqg8vxzv75zhjzjjd9s20fu6r0xz70yl8lk3teacwy7qyc2p2j7",
         "pool1gaztx97t53k47fr7282d70tje8323vvzx8pshgts30t9krw62tm",
-        "pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k"
+        "pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k",
+        "pool1k3nkfa5ugavrpd9nwd3s6yyx454qxnquxwmux4rzfunl7q0z38t",
+        "pool1qxpjz94fpwdwnltngf036yjkh63nrl55xkshug56aukqqwn6gsn",
+        "pool19kfm6lz5uw7nylq27swr367mqdycmug7tve94l6h3xsz64seqtc"
     ],
     "note": "auto-generated initial version. edit the file as needed."
 }
