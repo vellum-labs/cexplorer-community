@@ -8,6 +8,12 @@ With the recent update to [Cexplorer.io](https://cexplorer.io), there have been 
 
 The groups folder contains individual groups. Groups can contain pools or/and dreps. You can add additional information such as description, image, etc. to groups. You can modify an existing group or create a new one. After PR approval, usually by the next day, the data is projected on cexplorer.
 
+## Projects 
+💠 __Navigation__ [template file](/mainnet/projects/example.json)  
+💠 __Enviroments__ [mainnet groups](/mainnet/projects)
+
+The projects folder contains all projects with extended infos. You can modify an existing project or create a new one. After PR approval, usually by the next day, the data is projected on cexplorer.
+
 #
 
 ### Disclaimer - Please note: 
