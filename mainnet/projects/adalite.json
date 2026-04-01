@@ -1,0 +1,67 @@
+{
+  "project_id": "adalite",
+  "name": "AdaLite Wallet",
+  "organization": "Vacuumlabs",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
+  "description_long": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1064561911327535104/ufur73Z5_400x400.jpg",
+
+  "official_links": {
+    "website": "https://adalite.io",
+    "x": "https://x.com/AdaLiteWallet",
+    "discord": "",
+    "telegram": "https://t.me/AdaLite",
+    "github": "https://github.com/vacuumlabs/adalite",
+    "docs": "https://github.com/vacuumlabs/adalite/wiki"
+  },
+
+  "products": [
+    {
+      "name": "AdaLite Wallet",
+      "description": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
+      "links": {
+        "website": "https://adalite.io",
+        "app": "https://adalite.io",
+        "docs": "https://github.com/vacuumlabs/adalite/wiki",
+        "github": "https://github.com/vacuumlabs/adalite"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Lace Wallet",
+      "url": "https://github.com/vacuumlabs/adalite"
+    }
+  ],
+
+  "pools": [
+    "pool1qnrqc7zpwye2r9wtkayh2dryvfqs7unp99f2039duljrsaffq5c",
+    "pool1chtam5czevzk2ttctvltpsc8twlwf6zzyh7kj3jkz72gks975sn",
+    "pool15d62znf04qymt6ve536tt5y9ky979ly4um5zmgz9m850vu7wuv7",
+    "pool1ye4zrxf0w7d7drq5wmat36dlzq270dxy9rhgcwufnaja644vwr9",
+    "pool1uhy50u9y76nd6z2xmzt3mta0yc7g3gdssef8lheyyg7zzymgzm8",
+    "pool1caulv7s08g0jnptzdc69qycptacu7fzahny2epzh7sh9vhqz6xz",
+    "pool1ecvcst7k9eul4ggnljh0jw2s5nc2tyfmyzsx3xg3kmmz6ptgfwj",
+    "pool1jg3fmnmc9n52sgzslhhvhye5e3xeqmrwkekdhh82sma47r47zg0",
+    "pool167zl76srpt5a2gthpsq0ye9z4fpray5vsh7xyzcn63hd5mnw7fa",
+    "pool1jdhjfcu34lq88rypdtslzwyf27uh0h3apcr9mjd68zhc69r29fy",
+    "pool1ea568m9q882n0tx5d4vxff2dmz2n7rq5h62hx5ystq625m4tcfu",
+    "pool1q0a7a94cfk4ph7gugj636tsuhhd98l2sfjv2adhaff2mvs7kmtl",
+    "pool1fqwnqk3phwa2s5thgym8dw34pv0z67m526uqprnjh93cvzxymef",
+    "pool104avq7309gjm0fxms69yqusxy8zf888k4mamngg5vnc6vculpzq",
+    "pool15r7xg0vrrv2yu8wj3866eap8ftkuxvdk5rjz2lh4xajjq5v3p5d",
+    "pool1f8erepj5w5nth5xfxgxnwpz59jzywt6zdwfr50jzjwfwksmg9ek",
+    "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk"
+  ],
+
+  "tags": ["wallet", "cardano", "opensource"],
+
+  "status": "active",
+  "launch_year": 2018
+}
