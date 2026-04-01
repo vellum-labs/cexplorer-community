@@ -1,0 +1,85 @@
+{
+  "project_id": "levvy",
+  "name": "Levvy",
+  "organization": "Angel Finance",
+  "verified": true,
+
+  "category": ["defi"],
+
+  "description_short": "The premier peer-to-peer lending protocol on Cardano",
+  "description_long": "Levvy is an innovative Peer-to-Peer lending protocol on the Cardano blockchain, managed by Angel Finance. It allows NFT and Fungible Token owners to access instant liquidity from lenders at efficient market rates.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1915823740824547328/721KOBvv_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.levvy.fi/",
+    "x": "https://x.com/levvyfinance",
+    "discord": "https://discord.com/invite/angelfinance",
+    "telegram": "",
+    "github": "",
+    "docs": "https://angelfinance.io/docs/angel-paper/levvy/what-is-levvy"
+  },
+
+  "products": [
+    {
+      "name": "Levvy",
+      "description":"The premier peer-to-peer lending protocol on Cardano" ,
+      "links": {
+        "website": "https://www.levvy.fi/",
+        "app": "https://www.levvy.fi/",
+        "docs": "https://angelfinance.io/docs/angel-paper/levvy/what-is-levvy",
+        "github": ""
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "string",
+      "url": "https://github.com/..."
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "policyid+hexname",
+      "asset_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "leding",
+    "borrowing",
+    "defi",
+    "cardano"
+  ],
+
+  "status": "active",
+  "launch_year": 2023
+}
