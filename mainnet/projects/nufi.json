@@ -1,0 +1,100 @@
+{
+  "project_id": "nufi",
+  "name": "NuFi Wallet",
+  "organization": "NuFi",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
+  "description_long": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1991524001290534912/gK86RkNm_400x400.png",
+
+  "official_links": {
+    "website": "https://nu.fi/",
+    "x": "https://x.com/nufiwallet",
+    "discord": "https://discord.com/invite/jSyVPAXw3w",
+    "telegram": "",
+    "github": "",
+    "docs": "https://nufi.gitbook.io/developer-docs"
+  },
+
+  "products": [
+    {
+      "name": "NuFi Wallet",
+      "description":"A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others." ,
+      "links": {
+        "website": "https://nu.fi/",
+        "app": "https://wallet.nu.fi/auth",
+        "docs": "https://nufi.gitbook.io/developer-docs",
+        "github": ""
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "string",
+      "url": "https://github.com/..."
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "policyid+hexname",
+      "asset_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1qnrqc7zpwye2r9wtkayh2dryvfqs7unp99f2039duljrsaffq5c",
+    "pool1chtam5czevzk2ttctvltpsc8twlwf6zzyh7kj3jkz72gks975sn",
+    "pool15d62znf04qymt6ve536tt5y9ky979ly4um5zmgz9m850vu7wuv7",
+    "pool1ye4zrxf0w7d7drq5wmat36dlzq270dxy9rhgcwufnaja644vwr9",
+    "pool1uhy50u9y76nd6z2xmzt3mta0yc7g3gdssef8lheyyg7zzymgzm8",
+    "pool1caulv7s08g0jnptzdc69qycptacu7fzahny2epzh7sh9vhqz6xz",
+    "pool1ecvcst7k9eul4ggnljh0jw2s5nc2tyfmyzsx3xg3kmmz6ptgfwj",
+    "pool1jg3fmnmc9n52sgzslhhvhye5e3xeqmrwkekdhh82sma47r47zg0",
+    "pool167zl76srpt5a2gthpsq0ye9z4fpray5vsh7xyzcn63hd5mnw7fa",
+    "pool1jdhjfcu34lq88rypdtslzwyf27uh0h3apcr9mjd68zhc69r29fy",
+    "pool1ea568m9q882n0tx5d4vxff2dmz2n7rq5h62hx5ystq625m4tcfu",
+    "pool1q0a7a94cfk4ph7gugj636tsuhhd98l2sfjv2adhaff2mvs7kmtl",
+    "pool1fqwnqk3phwa2s5thgym8dw34pv0z67m526uqprnjh93cvzxymef",
+    "pool104avq7309gjm0fxms69yqusxy8zf888k4mamngg5vnc6vculpzq",
+    "pool15r7xg0vrrv2yu8wj3866eap8ftkuxvdk5rjz2lh4xajjq5v3p5d",
+    "pool1f8erepj5w5nth5xfxgxnwpz59jzywt6zdwfr50jzjwfwksmg9ek",
+    "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk"
+  ],
+
+  "tags": [
+    "wallet",
+    "multichain",
+    "cardano"
+  ],
+
+  "status": "active",
+  "launch_year": 2021
+}
