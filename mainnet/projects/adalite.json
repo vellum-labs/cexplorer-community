@@ -1,35 +1,42 @@
 {
-  "project_id": "nufi",
-  "name": "NUFI Wallet",
-  "organization": "NUFI",
+  "project_id": "adalite",
+  "name": "AdaLite Wallet",
+  "organization": "Vacuumlabs",
   "verified": true,
 
   "category": ["wallet"],
 
-  "description_short": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
-  "description_long": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
+  "description_short": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
+  "description_long": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
 
-  "icon": "https://pbs.twimg.com/profile_images/1991524001290534912/gK86RkNm_400x400.png",
+  "icon": "https://pbs.twimg.com/profile_images/1064561911327535104/ufur73Z5_400x400.jpg",
 
   "official_links": {
-    "website": "https://nu.fi",
-    "x": "https://x.com/nufiwallet",
-    "discord": "https://discord.com/invite/jSyVPAXw3w",
-    "telegram": "",
-    "github": "https://github.com/nufi-official",
-    "docs": "https://nufi.gitbook.io/developer-docs"
+    "website": "https://adalite.io",
+    "x": "https://x.com/AdaLiteWallet",
+    "discord": "",
+    "telegram": "https://t.me/AdaLite",
+    "github": "https://github.com/vacuumlabs/adalite",
+    "docs": "https://github.com/vacuumlabs/adalite/wiki"
   },
 
   "products": [
     {
-      "name": "NUFI Wallet",
-      "description": "A multichain Web3 crypto wallet for Cardano, Solana, Ethereum, EVMs, SVMs and others.",
+      "name": "AdaLite Wallet",
+      "description": "A lightweight, in-browser wallet for Cardano. Trezor & Ledger support. Staking.",
       "links": {
-        "website": "https://nu.fi/",
-        "app": "https://chromewebstore.google.com/detail/nufi/gpnihlnnodeiiaakbikldcihojploeca",
-        "docs": "https://nufi.gitbook.io/developer-docs",
-        "github": "https://github.com/nufi"
+        "website": "https://adalite.io",
+        "app": "https://adalite.io",
+        "docs": "https://github.com/vacuumlabs/adalite/wiki",
+        "github": "https://github.com/vacuumlabs/adalite"
       }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Lace Wallet",
+      "url": "https://github.com/vacuumlabs/adalite"
     }
   ],
 
@@ -53,8 +60,8 @@
     "pool16hs0jxw7h6pwg3ru7rcq3yvg4csj7lhmcpj68kqem2sh5nt8mwk"
   ],
 
-  "tags": ["wallet", "multichain", "cardano"],
+  "tags": ["wallet", "cardano", "opensource"],
 
   "status": "active",
-  "launch_year": 2021
+  "launch_year": 2018
 }
