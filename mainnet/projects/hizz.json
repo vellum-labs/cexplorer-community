@@ -1,0 +1,86 @@
+{
+  "project_id": "hizz",
+  "name": "Hizz",
+  "organization": "Astrvo",
+  "verified": true,
+
+  "category": ["defi", "tooling", "data", "marketplace"],
+
+  "description_short": "The Cardano terminal for token discovery, meme signals, and fast copy trading.",
+  "description_long": "Hizz is a live Cardano trading terminal focused on fast token discovery and execution. It features a market dashboard for trending tokens and Snekfun launches, an AI-powered signals feed, smart wallet and KOL monitoring, and custodial wallet support for seamless copy trading.",
+
+  "icon": "https://www.hizz.io/hizz-logo.png",
+
+  "official_links": {
+    "website": "https://hizz.io",
+    "x": "https://x.com/hizz_io",
+    "discord": "https://discord.gg/c4AkBMftVy",
+    "telegram": "https://t.me/hizz_io",
+    "github": "https://github.com/Astrvo/hizz",
+    "docs": "https://docs.hizz.io"
+  },
+
+  "products": [
+    {
+      "name": "Hizz",
+      "description":"The Cardano terminal for token discovery, meme signals, and fast copy trading." ,
+      "links": {
+        "website": "https://hizz.io",
+        "app": "https://hizz.io",
+        "docs": "https://docs.hizz.io",
+        "github": "https://github.com/Astrvo/hizz"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Astrvo/hizz",
+      "url": "https://github.com/Astrvo/hizz"
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "policyid+hexname",
+      "asset_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "string",
+      "script_name": "string",
+      "description": "string"
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1...",
+    "name": "string"
+  },
+
+  "pools": [
+    "pool1..."
+  ],
+
+  "tags": [
+    "cardano",
+    "meme",
+    "snek.fun",
+    "cardano",
+    "trading tool"
+  ],
+
+  "status": "active",
+  "launch_year": 2026
+}
