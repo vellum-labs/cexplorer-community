@@ -42,9 +42,9 @@
 
   "assets": [
     {
-      "asset_id": "policyid+hexname",
-      "asset_name": "string",
-      "description": "string"
+      "asset_id": "",
+      "asset_name": "",
+      "description": ""
     }
   ],
 
@@ -58,20 +58,18 @@
 
   "scripts": [
     {
-      "script_id": "string",
-      "script_name": "string",
-      "description": "string"
+      "script_id": "",
+      "script_name": "",
+      "description": ""
     }
   ],
 
   "drep": {
-    "drep_id": "drep1...",
-    "name": "string"
+    "drep_id": "",
+    "name": ""
   },
 
-  "pools": [
-    "pool1..."
-  ],
+  "pools": [],
 
   "tags": [
     "cardano",
