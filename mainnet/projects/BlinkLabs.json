@@ -15,7 +15,7 @@
     "website": "https://blinklabs.io",
     "x": "https://x.com/blinklabs_io",
     "discord": "https://discord.gg/5fPRZnX4qW",
-    "telegram": "https://...",
+    "telegram": "",
     "github": "https://github.com/blinklabs-io",
     "docs": "https://docs.blinklabs.io/home/"
   },
@@ -26,7 +26,7 @@
       "description":"A Cardano blockchain node written in Go" ,
       "links": {
         "website": "https://blinklabs.io/projects-open-source",
-        "app": "https://...",
+        "app": "",
         "docs": "https://docs.blinklabs.io/guides/dingo/001-dingo/",
         "github": "https://github.com/blinklabs-io/dingo"
       }
@@ -36,7 +36,7 @@
       "description":"gOuroboros is a Go implementation of the Cardano Ouroboros network protocol and its mini-protocols, which allows for communication on the Cardano blockchain using its wire protocol. gOuroboros is the primary building block for creating tools and applications for Cardano in Go." ,
       "links": {
         "website": "https://blinklabs.io/projects-open-source",
-        "app": "https://...",
+        "app": "",
         "docs": "https://docs.blinklabs.io/guides/gouroboros/001-gouroboros/",
         "github": "https://github.com/blinklabs-io/gOuroboros"
       }
@@ -46,7 +46,7 @@
       "description":"Adder is a tool for tailing the Cardano blockchain and emitting events for each block and transaction seen, based on user configurable filters. These events can be processed in other event-based toolchains to produce rich and reactive applications for Cardano." ,
       "links": {
         "website": "https://blinklabs.io/projects-open-source",
-        "app": "https://...",
+        "app": "",
         "docs": "https://docs.blinklabs.io/guides/adder/001-adder/",
         "github": "https://github.com/blinklabs-io/Adder"
       }
@@ -56,11 +56,11 @@
       "description":"A programmatic Cardano wallet, written in Go, which exposes an API, CLI, and library interface, allowing developers to easily integrate wallet functionality." ,
       "links": {
         "website": "https://blinklabs.io/projects-open-source",
-        "app": "https://...",
+        "app": "",
         "docs": "https://docs.blinklabs.io/guides/bursa/001-bursa/",
         "github": "https://github.com/blinklabs-io/bursa"
       }
-    },
+    }
   ],
 
   "tracked_repositories": [
@@ -72,9 +72,9 @@
 
   "assets": [
     {
-      "asset_id": "policyid+hexname",
-      "asset_name": "string",
-      "description": "string"
+      "asset_id": "",
+      "asset_name": "",
+      "description": ""
     }
   ],
 
@@ -88,20 +88,18 @@
 
   "scripts": [
     {
-      "script_id": "string",
-      "script_name": "string",
-      "description": "string"
+      "script_id": "",
+      "script_name": "",
+      "description": ""
     }
   ],
 
   "drep": {
-    "drep_id": "drep1...",
-    "name": "string"
+    "drep_id": "",
+    "name": ""
   },
 
-  "pools": [
-    "pool1..."
-  ],
+  "pools": [],
 
   "tags": [
     "Dingo Node",
