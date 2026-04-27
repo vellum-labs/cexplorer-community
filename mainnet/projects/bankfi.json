@@ -1,0 +1,61 @@
+{
+  "project_id": "bankfi",
+  "name": "BankFi",
+  "organization": "BankFi",
+  "verified": true,
+
+  "category": ["defi"],
+
+  "description_short": "Grow your portfolio with confidence. Earn passive rewards. It pays to $BANK with us. Est. 2021. Offering Cardano launchpad services through BankFi: Pillar",
+  "description_long": "BankFi is a Cardano-native project with a focus on delivering innovative and viable DeFi solutions for users and businesses.\n\nThe BankFi Platform is a community-driven, DAO operated, unified ecosystem for owning and earning from real, revenue-producing infrastructure. Combining the BankFi Market and BankFi Genesis, there are yield-generating opportunities to match everyone’s preference. Participants are able to acquire ownership units in yield-bearing asset-backed verticals, collect our core $BANK token and NFTs for diversified rewards, and be part of a growing, decentralized financial network. BankFi has assembled a diversified portfolio spanning onchain DeFi infrastructure, node operations, BTC mining, and curated real-world assets.  Our compounding portfolio is the source of BankFi’s rewards and the foundation for long-term value accrual on the platform. The BankFi Platform is an integrated hub for discovery, purchase, and reward management across the entire ecosystem.\n\nBankFi also operates Pillar, a long-standing premium development service on Cardano specializing in NFT minting, token sales, and staking.  This in-house development team continues to provide high quality development solutions for businesses across Cardano while also allowing for consistent growth and improvement for products within the BankFi ecosystem. The solutions launched by Pillar increase BankFi’s visibility and reputability through real partnerships with new and established projects alike.",
+
+  "icon": "https://www.bankerlabs.io/favicon/180x180.png",
+
+  "official_links": {
+    "website": "https://bankerlabs.io",
+    "x": "https://x.com/BankFiOfficial",
+    "discord": "https://discord.gg/bankfi",
+    "docs": "https://www.bankerlabs.io/vault-paper/latest.pdf"
+  },
+
+  "products": [
+    {
+      "name": "BankFi",
+      "description": "Passive Yield Ecosystem" ,
+      "links": {
+        "website": "https://bankerlabs.io",
+        "app": "",
+        "docs": "https://www.bankerlabs.io/vault-paper/latest.pdf"
+      }
+    }
+  ],
+
+  "tracked_repositories": [],
+
+  "assets": [],
+
+  "policy": [],
+
+  "scripts": [],
+
+  "drep": {
+    "drep_id": "drep1ytdj0mu4kfhzekjx8yragvc64fcvkxp435fcxytv2kg7l2qpyccd5",
+    "name": "BankFi"
+  },
+
+  "pools": [
+    "pool1m3h5p82m6v99nda37rmed8vrkqt43e2a8d89k76gw5ets0gdyag"
+  ],
+
+  "tags": [
+    "Cardano",
+    "RWA",
+    "Yield",
+    "NFT Sales",
+    "Token Sales",
+    "Launchpad"
+  ],
+
+  "status": "active",
+  "launch_year": 2021
+}
