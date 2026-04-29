@@ -65,8 +65,40 @@
 
   "tracked_repositories": [
     {
-      "name": "Blink Labs",
-      "url": "https://github.com/blinklabs-io"
+      "name": "Blink Labs gOuroboros",
+      "url": "github.com/blinklabs-io/gouroboros"
+    },
+    {
+      "name": "Blink Labs Dingo",
+      "url": "github.com/blinklabs-io/dingo"
+    },
+    {
+      "name": "Blink Labs Plutigo",
+      "url": "github.com/blinklabs-io/plutigo"
+    },
+    {
+      "name": "Blink Labs Bursa",
+      "url": "github.com/blinklabs-io/bursa"
+    },
+    {
+      "name": "Blink Labs Adder",
+      "url": "github.com/blinklabs-io/adder"
+    },
+    {
+      "name": "Blink Labs nview",
+      "url": "github.com/blinklabs-io/nview"
+    },
+    {
+      "name": "Blink Labs TxTop",
+      "url": "github.com/blinklabs-io/txtop"
+    },
+    {
+      "name": "Blink Labs cardano-up",
+      "url": "github.com/blinklabs-io/cardano-up"
+    },
+    {
+      "name": "Blink Labs cDNSd",
+      "url": "github.com/blinklabs-io/cdnsd"
     }
   ],
 
