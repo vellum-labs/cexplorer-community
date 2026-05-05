@@ -58,14 +58,6 @@
       "url": "https://github.com/Andamio-Platform/andamio-app-template"
     },
     {
-      "name": "Andamio Core",
-      "url": "https://github.com/Andamio-Platform/andamio-core"
-    },
-    {
-      "name": "Andamio CLI",
-      "url": "https://github.com/Andamio-Platform/andamio-cli"
-    },
-    {
       "name": "Andamio Dev",
       "url": "https://github.com/Andamio-Platform/andamio-dev"
     },
@@ -74,16 +66,8 @@
       "url": "https://github.com/Andamio-Platform/plumbline-global-state"
     },
     {
-      "name": "Andamio Access Token",
-      "url": "https://github.com/Andamio-Platform/access-token"
-    },  
-    {
-      "name": "Andamio Indexer",
-      "url": "https://github.com/Andamio-Platform/andamio-indexer"
-    },
-    {
-      "name": "Andamio Node",
-      "url": "https://github.com/Andamio-Platform/node-sdk"
+      "name": "Andamio Core",
+      "url": "https://github.com/Andamio-Platform/andamio-core"
     }
   ],
 
