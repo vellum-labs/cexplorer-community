@@ -1,0 +1,134 @@
+{
+  "project_id": "andamio",
+  "name": "Andamio",
+  "organization": "Andamio",
+  "verified": true,
+
+  "category": ["infrastructure", "governance", "other"],
+
+  "description_short": "open protocol for interoperable credentials.",
+  "description_long": "Andamio is a decentralized infrastructure for professional identity and contribution management. Built on the Cardano blockchain, it transforms the relationship between education and employment by creating a verifiable link between skill acquisition and project-based work. By converting achievements into portable on-chain credentials, Andamio ensures that reputation is earned through proven results and peer validation rather than just self-declared titles. For organizations, Andamio provides a robust toolkit for managing distributed contributor networks and on-chain treasuries. Every credential issued is anchored to the specific evidence of the work performed, creating a transparent audit trail of expertise. This enables organizations to implement prerequisite-gated access to funded opportunities, ensuring that tasks are only available to those with the demonstrated skills to complete them. By removing the friction of traditional onboarding and technical Web3 barriers through its API and transaction sponsorship, Andamio serves as the essential layer for trust and accountability in the digital economy.",
+
+  "icon": "https://www.andamio.io/_next/image?url=%2Flogo-with-typography-stacked-dark.png&w=640&q=75",
+
+  "official_links": {
+    "website": "https://www.andamio.io/",
+    "x": "https://x.com/andamio_teams",
+    "discord": "https://discord.gg/mkSBHDmzPB",
+    "github": "https://github.com/Andamio-Platform",
+    "docs": "https://docs.andamio.io/"
+  },
+
+  "products": [
+    {
+      "name": "Andamio Protocol",
+      "description":"Andamio Protocol is an open standard for credential-gated collaboration on Cardano. It enables organizations to issue verifiable credentials that are anchored to specific evidence of work performed, creating a transparent audit trail of expertise. The protocol allows for prerequisite-gated access to funded opportunities, ensuring that tasks are only available to those with the demonstrated skills to complete them." ,
+      "links": {
+        "website": "https://www.andamio.io/",
+        "app": "",
+        "docs": "https://docs.andamio.io/docs/protocol",
+        "github": "https://github.com/Andamio-Platform/plumbline-global-state"
+      }
+    },
+    {
+      "name": "Andamio API",
+      "description":"Andamio is a system for issuing credentials and granting role-based access to holders of those credentials. This API is one way to interact with Andamio. You can also build your own. Use this as a reference to learn how Andamio works and as a starting point for your own integrations." ,
+      "links": {
+        "website": "https://mainnet.api.andamio.io/reference",
+        "app": "",
+        "docs": "https://mainnet.api.andamio.io/reference",
+        "github": "https://github.com/Andamio-Platform/andamio-api"
+      }
+    },
+    {
+      "name": "Andamio Platform",
+      "description":"Create your on-chain identity and mint an access token to start using Andamio. The Andamio Platform is a no-code interface for issuing credentials and managing access to opportunities. It is built on top of the Andamio Protocol and API, providing a user-friendly way to interact with the underlying technology." ,
+      "links": {
+        "website": "https://mainnet.app.andamio.io",
+        "app": "https://mainnet.app.andamio.io/",
+        "docs": "https://docs.andamio.io/docs/guides/getting-started",
+        "github": "https://github.com/Andamio-Platform/andamio-app-template"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Andamio App Template",
+      "url": "https://github.com/Andamio-Platform/andamio-app-template"
+    },
+    {
+      "name": "Andamio Core",
+      "url": "https://github.com/Andamio-Platform/andamio-core"
+    },
+    {
+      "name": "Andamio CLI",
+      "url": "https://github.com/Andamio-Platform/andamio-cli"
+    },
+    {
+      "name": "Andamio Dev",
+      "url": "https://github.com/Andamio-Platform/andamio-dev"
+    },
+    {
+      "name": "Plumbline Global State",
+      "url": "https://github.com/Andamio-Platform/plumbline-global-state"
+    },
+    {
+      "name": "Andamio Access Token",
+      "url": "https://github.com/Andamio-Platform/access-token"
+    },  
+    {
+      "name": "Andamio Indexer",
+      "url": "https://github.com/Andamio-Platform/andamio-indexer"
+    },
+    {
+      "name": "Andamio Node",
+      "url": "https://github.com/Andamio-Platform/node-sdk"
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "",
+      "asset_name": "",
+      "description": ""
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "",
+      "script_name": "",
+      "description": ""
+    }
+  ],
+
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+
+  "pools": [
+    "pool143nv3macakarny2hvg67gg00q5j2kdg6yfvcmefqmea3vnj0nex"
+  ],
+
+  "tags": [
+    "Andamio",
+    "Andamio API",
+    "Andamio Protocol",
+    "Andamio Credentials",
+    "Andamio Treasury",
+    "Andamio Network"
+  ],
+
+  "status": "active",
+  "launch_year": 2023
+}
