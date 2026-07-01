@@ -1,0 +1,77 @@
+{
+  "project_id": "ourodex",
+  "name": "Ourodex",
+  "organization": "Ourodex Finance",
+  "verified": true,
+
+  "category": ["dex", "defi"],
+
+  "description_short": "A non-custodial DeFi platform on Cardano — expanding to Midnight — built as a growing suite of products sharing one foundation: best-execution trading with fees shown up front.",
+  "description_long": "Ourodex is a decentralized finance (DeFi) platform built on Cardano, with expansion underway to Midnight. Rather than a single app, Ourodex is a growing suite of products that all share one foundation: non-custodial trading with best execution and fees shown up front, no hidden costs.\n\nCurrent products include **Aggregator**, a best-execution swap router across Cardano DEXs, and **Outcomes**, an on-chain pari-mutuel prediction market — pick Yes/No on a question, stake ADA, and winners split the losing side's pool automatically on-chain, with no house and no fixed odds. More products are being added as the suite grows.",
+
+  "icon": "https://ipfs.io/ipfs/bafkreiarjvto3m762gh4isljtdcd4ptidjs3qjcs2f2tflu6rr4x6ochya",
+
+  "official_links": {
+    "website": "https://app.ourodex.io",
+    "x": "https://x.com/ourodexfinance",
+    "discord": "https://discord.gg/mYsjJdF2a",
+    "telegram": "",
+    "github": "",
+    "docs": "https://docs.ourodex.io"
+  },
+
+  "products": [
+    {
+      "name": "Aggregator",
+      "description": "Best-execution swap aggregator routing trades across Cardano DEXs.",
+      "links": {
+        "website": "https://app.ourodex.io",
+        "app": "https://app.ourodex.io/aggregate",
+        "docs": "https://docs.ourodex.io",
+        "github": ""
+      }
+    },
+    {
+      "name": "Outcomes",
+      "description": "On-chain pari-mutuel prediction markets — pick Yes/No, stake ADA, win a share of the losing pool.",
+      "links": {
+        "website": "https://app.ourodex.io",
+        "app": "https://app.ourodex.io/outcomes",
+        "docs": "https://docs.ourodex.io",
+        "github": ""
+      }
+    }
+  ],
+
+  "tracked_repositories": [],
+
+  "assets": [
+    {
+      "asset_id": "8972f0c58dd51e138b981e2eca8a46ecad4e4447aa073cbce54eb4854f55524f",
+      "asset_name": "OURO",
+      "description": "Ourodex Finance native token on Cardano. Total minted supply: 1,000,000,000."
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "8972f0c58dd51e138b981e2eca8a46ecad4e4447aa073cbce54eb485",
+      "policy_name": "OURO",
+      "description": "Minting policy for the OURO token (single mint, fixed supply, CIP-25 metadata)."
+    }
+  ],
+
+  "scripts": [],
+
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+
+  "pools": [],
+
+  "tags": ["dex-aggregator", "prediction-market", "cardano", "midnight", "defi"],
+
+  "status": "active",
+  "launch_year": 2026
+}
