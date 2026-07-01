@@ -1,0 +1,89 @@
+{
+  "project_id": "sundaeswap",
+  "name": "SundaeSwap",
+  "organization": "SundaeSwap Labs",
+  "verified": true,
+  "category": [
+    "dex"
+  ],
+  "description_short": "Native scalable AMM DEX on Cardano.",
+  "description_long": "Native, scalable Cardano AMM DEX with automated liquidity provision, yield farming, and an order-book overlay built on Plutus.",
+  "icon": "https://pbs.twimg.com/profile_images/1573111846579617794/jftnVq8h_400x400.jpg",
+  "official_links": {
+    "website": "https://sundae.fi",
+    "x": "https://x.com/SundaeSwap",
+    "discord": "https://discord.com/invite/CGDQ3YWXeY",
+    "telegram": "https://t.me/SundaeSwapOfficial",
+    "github": "https://github.com/SundaeSwap-finance",
+    "docs": "https://docs.sundaeswap.finance"
+  },
+  "products": [
+    {
+      "name": "SundaeSwap DEX",
+      "description": "AMM DEX for swapping tokens, providing liquidity, and yield farming on Cardano.",
+      "links": {
+        "website": "https://sundae.fi/products/sundaeswap",
+        "app": "https://app.sundae.fi",
+        "docs": "https://docs.sundaeswap.finance",
+        "github": "https://github.com/SundaeSwap-finance/sundae-contracts"
+      }
+    },
+    {
+      "name": "SundaeSwap Governance",
+      "description": "On-chain governance platform for SUNDAE token holders to propose and vote on protocol changes.",
+      "links": {
+        "website": "https://governance.sundaeswap.finance",
+        "app": "https://governance.sundaeswap.finance",
+        "docs": "",
+        "github": ""
+      }
+    },
+    {
+      "name": "Sundae SDK",
+      "description": "TypeScript SDK for interacting with the SundaeSwap protocol, building swaps and other transactions.",
+      "links": {
+        "website": "",
+        "app": "",
+        "docs": "https://sundaeswap-finance.github.io/sundae-sdk/",
+        "github": "https://github.com/SundaeSwap-finance/sundae-sdk"
+      }
+    }
+  ],
+  "tracked_repositories": [
+    {
+    "name": "sundae-contracts",
+    "url": "https://github.com/SundaeSwap-finance/sundae-contracts"
+  },
+  {
+    "name": "sundae-sdk",
+    "url": "https://github.com/SundaeSwap-finance/sundae-sdk"
+  }],
+  "assets": [
+    {
+      "asset_id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+      "asset_name": "SUNDAE",
+      "description": "SundaeSwap governance token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
+      "policy_name": "SUNDAE token policy",
+      "description": "Policy for the SUNDAE governance token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "dex",
+    "amm",
+    "yield-farming",
+    "plutus"
+  ],
+  "status": "active",
+  "launch_year": 2022
+}

@@ -1,0 +1,74 @@
+{
+  "project_id": "splash",
+  "name": "Splash",
+  "organization": "Splash Protocol",
+  "verified": true,
+  "category": [
+    "dex"
+  ],
+  "description_short": "Open-source market-making and trading protocol.",
+  "description_long": "Open-source decentralized protocol for efficient market-making and trading on Cardano, with batched settlement and gas-efficient routing.",
+  "icon": "https://pbs.twimg.com/profile_images/1732048580436017152/ombQpo1o_400x400.jpg",
+  "official_links": {
+    "website": "https://www.splash.trade/",
+    "x": "https://x.com/splashprotocol",
+    "discord": "https://discord.com/invite/tbK9F99ZMR",
+    "telegram": "",
+    "github": "https://github.com/splashprotocol",
+    "docs": "https://docs.splash.trade"
+  },
+  "products": [
+    {
+      "name": "Splash DEX",
+      "description": "Decentralized exchange combining AMM liquidity pools and Temporal Liquidity Book for capital-efficient trading on Cardano.",
+      "links": {
+        "website": "https://www.splash.trade/",
+        "app": "https://app.splash.trade",
+        "docs": "https://docs.splash.trade",
+        "github": "https://github.com/splashprotocol/splash-core"
+      }
+    }
+  ],
+  "tracked_repositories": [
+    {
+      "name": "Splash Core",
+      "url": "https://github.com/splashprotocol/splash-core"
+    },
+    {
+      "name": "splash-offchain-multiplatform",
+      "url": "https://github.com/splashprotocol/splash-offchain-multiplatform"
+    },
+    {
+      "name": "protocol-sdk",
+      "url": "https://github.com/splashprotocol/protocol-sdk"
+    }
+  ],
+  "assets": [
+    {
+    "asset_id": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+    "asset_name": "SPLASH",
+    "description": "Governance token for Splash Protocol"
+  }
+],
+  "policy": [
+    {
+    "policy_id": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
+    "policy_name": "SPLASH token policy",
+    "description": "Policy for the SPLASH governance token"
+  }
+],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "dex",
+    "opensource",
+    "market-making",
+    "batched-settlement"
+  ],
+  "status": "active",
+  "launch_year": 2024
+}

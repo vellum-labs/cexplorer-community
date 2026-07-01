@@ -1,0 +1,46 @@
+{
+  "project_id": "stuff-io",
+  "name": "Stuff.io",
+  "organization": "Stuff.io",
+  "verified": true,
+
+  "category": ["marketplace"],
+
+  "description_short": "True digital ownership for media you can resell.",
+  "description_long": "Digital-ownership platform on Cardano letting consumers own, share, gift, or resell their movies, music, ebooks, audiobooks, and podcasts as NFTs.",
+
+  "icon": "https://stuff.io/wp-content/uploads/2024/06/cropped-Stuff.io-Logo-512-Teal-270x270.png",
+
+  "official_links": {
+    "website": "https://stuff.io",
+    "x": "https://x.com/stuff_io",
+    "discord": "https://discord.com/invite/HsmN5GF6J6",
+    "telegram": "",
+    "github": "",
+    "docs": "https://stuff.io/stuff-token/"
+  },
+
+  "products": [
+    {
+      "name": "Stuff.io Marketplace",
+      "description": "Multi-chain Web3 marketplace for buying and owning digital media – videos, music, films, books – as resellable NFTs.",
+      "links": {
+        "website": "https://stuff.io",
+        "app": "https://stuff.io/store/",
+        "docs": "",
+        "github": ""
+      }
+    }
+  ],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["marketplace", "nft", "media", "movies", "music", "ebooks"],
+
+  "status": "active",
+  "launch_year": 2022
+}

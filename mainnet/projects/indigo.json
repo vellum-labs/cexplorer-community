@@ -1,0 +1,102 @@
+{
+  "project_id": "indigo",
+  "name": "Indigo",
+  "organization": "Indigo Protocol",
+  "verified": true,
+  "category": [
+    "defi"
+  ],
+  "description_short": "Synthetics protocol for on-chain RWA exposure.",
+  "description_long": "Autonomous synthetics protocol on Cardano for on-chain price exposure to real-world assets. Mints iAssets backed by collateralized debt positions.",
+  "icon": "https://indigoprotocol.io/images/indigo-logo-light.png",
+  "official_links": {
+    "website": "https://indigoprotocol.io/",
+    "x": "https://x.com/indigo_protocol",
+    "discord": "https://discord.gg/YUbduZezdP",
+    "telegram": "",
+    "github": "https://github.com/IndigoProtocol/indigo-smart-contracts",
+    "docs": "https://docs.indigoprotocol.io/"
+  },
+  "products": [{
+    "name": "Indigo Web App",
+    "description": "Main interface for minting iAssets via CDPs, managing Stability Pools, and liquid staking of ADA collateral.",
+    "links": {
+      "website": "https://indigoprotocol.io/",
+      "app": "https://app.indigoprotocol.io/",
+      "docs": "https://docs.indigoprotocol.io/",
+      "github": "https://github.com/IndigoProtocol/indigo-smart-contracts"
+    }
+  },
+  {
+    "name": "Dexter",
+    "description": "Open-source DEX aggregator built into Indigo for swapping iAssets, ADA, and INDY across Cardano DEXs.",
+    "links": {
+      "website": "",
+      "app": "https://app.indigoprotocol.io/",
+      "docs": "",
+      "github": "https://github.com/IndigoProtocol/dexter"
+    }
+  },
+  {
+    "name": "Iris",
+    "description": "OCardano DEX data aggregator and indexer. Indexes swaps, deposits, liquidity pools, and order books across DEXs, with a uniform API and websocket feed.",
+    "links": {
+      "website": "",
+      "app": "",
+      "docs": "",
+      "github": "https://github.com/IndigoProtocol/iris"
+    }
+  }
+],
+  "tracked_repositories": [
+    {
+      "name": "Indigo Smart Contracts",
+      "url": "https://github.com/IndigoProtocol/indigo-smart-contracts"
+    },
+    {
+      "name": "dexter",
+      "url": "https://github.com/IndigoProtocol/dexter"
+    },
+    {
+      "name": "iris",
+      "url": "https://github.com/IndigoProtocol/iris"
+    },
+    {
+      "name": "indy-rewards",
+      "url": "https://github.com/IndigoProtocol/indy-rewards"
+    },
+    {
+      "name": "indigo-mcp",
+      "url": "https://github.com/IndigoProtocol/indigo-mcp"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+      "asset_name": "INDY",
+      "description": "Indigo DAO governance token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
+      "policy_name": "INDY token policy",
+      "description": "Policy for the INDY Indigo DAO token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "lending",
+    "opensource",
+    "synthetics",
+    "iassets",
+    "defi"
+  ],
+  "status": "active",
+  "launch_year": 2022
+}

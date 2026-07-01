@@ -1,0 +1,52 @@
+{
+  "project_id": "begin-wallet",
+  "name": "Begin Wallet",
+  "organization": "Begin",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Non-custodial Cardano wallet for browser and mobile.",
+  "description_long": "Non-custodial Cardano wallet for browser and mobile with payment links, deep-link support, Begin ID usernames (ENS-style), and Ledger and Keystone hardware support.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1989061938018488320/WeZMgdyP_400x400.jpg",
+
+  "official_links": {
+    "website": "https://begin.is",
+    "x": "https://x.com/BeginWallet",
+    "discord": "https://discord.gg/QQVPuYBZHg",
+    "telegram": "",
+    "github": "https://github.com/B58-Finance",
+    "docs": "https://begin.is/docs"
+  },
+
+  "products": [
+    {
+      "name": "Begin Wallet – Mobile",
+      "description": "Non-custodial iOS and Android wallet for ADA and Cardano native assets.",
+      "links": {
+        "website": "https://begin.is",
+        "app": "https://apps.apple.com/us/app/begin-cardano-wallet-by-b58/id1642488837"
+      }
+    },
+    {
+      "name": "Begin Wallet – Browser Extension",
+      "description": "Chrome browser extension for connecting to Cardano dApps.",
+      "links": {
+        "website": "https://begin.is",
+        "app": "https://chromewebstore.google.com/detail/begin-cardano-wallet-by-b/nhbicdelgedinnbcidconlnfeionhbml"
+      }
+    }
+  ],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["wallet", "nft", "mobile", "non-custodial", "ios", "android", "browser", "hardware-wallet", "begin-id"],
+
+  "status": "active",
+  "launch_year": 2022
+}

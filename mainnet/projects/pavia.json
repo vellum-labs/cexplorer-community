@@ -1,0 +1,81 @@
+{
+  "project_id": "pavia",
+  "name": "Pavia",
+  "organization": "Pavia",
+  "verified": true,
+  "category": [
+    "other"
+  ],
+  "description_short": "User-owned virtual world on Cardano.",
+  "description_long": "User-owned virtual world on Cardano where players buy land NFTs, build experiences, and trade assets with other residents of the metaverse.",
+  "icon": "https://cdn.prod.website-files.com/66320aafdf44435eae408e3e/6647e8e8cfd5803e869e1c11_Group%2034.svg",
+  "official_links": {
+    "website": "https://www.pavia.io",
+    "x": "https://x.com/Pavia_io",
+    "discord": "https://discord.gg/ddSGQ3Z6cb",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+  "products": [
+    {
+      "name": "Pavia World",
+      "description": "Main metaverse experience. Explore, build on land parcels, and host events in the virtual world.",
+      "links": {
+        "website": "https://www.pavia.io",
+        "app": "https://map.pavia.io",
+        "docs": "",
+        "github": ""
+      }
+    },
+    {
+      "name": "PAVS",
+  "description": "Collectible Mech NFTs in 5 classes with 5 interchangeable parts and over 9 million combinations. Collect, trade, and build game-ready avatars.",
+  "links": {
+    "website": "",
+    "app": "https://pavs.pavia.io",
+    "docs": "",
+    "github": ""
+      }
+    },
+    {
+      "name": "MaaS",
+      "description": "Metaverse as a Service – tooling for building and deploying connected virtual world experiences.",
+      "links": {
+        "website": "https://www.pavia.io/maas",
+        "app": "",
+        "docs": "",
+        "github": ""
+      }
+    }
+  ],
+  "tracked_repositories": [],
+  "assets": [
+    {
+      "asset_id": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae5041564941",
+      "asset_name": "PAVIA",
+      "description": "Pavia metaverse token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae",
+      "policy_name": "PAVIA token policy",
+      "description": "Policy for the PAVIA token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "game",
+    "metaverse",
+    "virtual-world",
+    "land-nft"
+  ],
+  "status": "active",
+  "launch_year": 2021
+}

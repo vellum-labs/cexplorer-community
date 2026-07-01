@@ -1,0 +1,127 @@
+{
+  "project_id": "minswap",
+  "name": "Minswap",
+  "organization": "Minswap Labs",
+  "verified": true,
+  "category": [
+    "dex"
+  ],
+  "description_short": "Multi-pool decentralized exchange on Cardano.",
+  "description_long": "Multi-pool decentralized exchange on Cardano with deep liquidity, yield farming, and one of the highest-volume venues for native token swaps.",
+  "icon": "https://pbs.twimg.com/profile_images/1720438668790206465/2Pb3njrD_400x400.jpg",
+  "official_links": {
+    "website": "https://minswap.org",
+    "x": "https://x.com/MinswapDEX",
+    "discord": "https://discord.gg/amg2AFrPMJ",
+    "telegram": "",
+    "github": "https://github.com/minswap",
+    "docs": "https://docs.minswap.org"
+  },
+  "products": [{
+    "name": "Minswap DEX",
+    "description": "Main AMM DEX interface for swapping tokens, providing liquidity, and yield farming on Cardano.",
+    "links": {
+      "website": "https://minswap.org",
+      "app": "https://minswap.org/swap",
+      "docs": "https://docs.minswap.org",
+      "github": "https://github.com/minswap/minswap-dex-v2"
+    }
+  },
+  {
+    "name": "Minswap Aggregator",
+    "description": "DEX aggregator routing swaps across multiple Cardano DEXs for best price execution.",
+    "links": {
+      "website": "",
+      "app": "https://minswap.org/aggregator",
+      "docs": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Minswap Stableswap",
+    "description": "Open-source stableswap pool for low-slippage swaps between stablecoins and pegged assets.",
+    "links": {
+      "website": "",
+      "app": "https://app.minswap.org",
+      "docs": "",
+      "github": "https://github.com/minswap/minswap-stableswap"
+    }
+  },
+  {
+    "name": "Minswap SDK",
+    "description": "TypeScript SDK for interacting with Minswap DEX programmatically.",
+    "links": {
+      "website": "",
+      "app": "",
+      "docs": "",
+      "github": "https://github.com/minswap/sdk"
+    }
+  }],
+  "tracked_repositories": [
+    {
+    "name": "minswap-dex-v2",
+    "url": "https://github.com/minswap/minswap-dex-v2"
+  },
+  {
+    "name": "minswap-stableswap",
+    "url": "https://github.com/minswap/minswap-stableswap"
+  },
+  {
+    "name": "sdk",
+    "url": "https://github.com/minswap/sdk"
+  },
+  {
+    "name": "minswap-tokens",
+    "url": "https://github.com/minswap/minswap-tokens"
+  }
+],
+  "assets": [
+    {
+      "asset_id": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+      "asset_name": "MIN",
+      "description": "Minswap governance token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
+      "policy_name": "MIN token policy",
+      "description": "Policy for the MIN governance token"
+    },
+    {
+      "policy_id": "13aa2accf2e1561723aa26871e071fdf32c867cff7e7d50ad470d62f",
+      "policy_name": "Factory policy",
+      "description": "Minswap Factory NFT policy"
+    },
+    {
+      "policy_id": "e4214b7cce62ac6fbba385d164df48e157eae5863521b4b67ca71d86",
+      "policy_name": "LP policy",
+      "description": "Minswap LP token policy"
+    },
+    {
+      "policy_id": "0be55d262b29f564998ff81efe21bdc0022621c12f15af08d0f2ddb1",
+      "policy_name": "Pool NFT policy",
+      "description": "Minswap pool NFT policy"
+    }
+  ],
+  "scripts": [
+    {
+      "script_id": "script1uychk9f04tqngfhx4qlqdlug5ntzen3uzc62kzj7cyesjk0d9me",
+      "script_name": "Pool script",
+      "description": "Minswap pool script hash (bech32)"
+    }
+  ],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "dex",
+    "amm",
+    "liquidity",
+    "yield-farming"
+  ],
+  "status": "active",
+  "launch_year": 2022
+}

@@ -1,0 +1,77 @@
+{
+  "project_id": "eternl",
+  "name": "Eternl",
+  "organization": "Eternl",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Power-user wallet for browser and mobile.",
+  "description_long": "Feature-rich Cardano light wallet for browser and mobile. Favored by experienced users for power features the community has requested most.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1505984112674357255/bCXyj3kU_400x400.jpg",
+
+  "official_links": {
+    "website": "https://eternl.io",
+    "x": "https://x.com/eternlwallet",
+    "discord": "https://discord.com/invite/eternlwallet",
+    "telegram": "",
+    "github": "https://github.com/ccwalletio",
+    "docs": ""
+  },
+
+  "products": [{
+    "name": "Eternl Web App",
+    "description": "Browser-based Cardano wallet with built-in DApp browser.",
+    "links": {
+      "website": "https://eternl.io",
+      "app": "https://eternl.io/app/mainnet/welcome",
+      "docs": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Eternl Browser Extension",
+    "description": "DApp connector extension for Chrome, Edge, Brave, and Opera.",
+    "links": {
+      "website": "https://eternl.io",
+      "app": "https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka",
+      "docs": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Eternl Mobile (iOS & Android)",
+    "description": "Mobile Cardano wallet with DApp browser for iOS and Android.",
+    "links": {
+      "website": "https://eternl.io",
+      "app": "",
+      "docs": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Monster Swap",
+    "description": "Built-in DEX aggregator for optimal token swaps across Cardano DEXs.",
+    "links": {
+      "website": "",
+      "app": "https://eternl.io",
+      "docs": "",
+      "github": ""
+    }
+  }],
+  "tracked_repositories": [{
+    "name": "ccwalletio-tracker",
+    "url": "https://github.com/ccwalletio/tracker"
+  }],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "drep1y29h2q6cst2pvkl2sqqvf5ljcy36uv7pmy482xnczddzgqshus24w", "name": "Eternl" },
+  "pools": [],
+
+  "tags": ["wallet", "nft", "mobile", "non-custodial", "ios", "android", "browser", "staking", "dapp-connector", "hardware-wallet", "multi-account", "governance"],
+
+  "status": "active",
+  "launch_year": 2021
+}

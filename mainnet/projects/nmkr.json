@@ -1,0 +1,93 @@
+{
+  "project_id": "nmkr",
+  "name": "NMKR",
+  "organization": "NMKR",
+  "verified": true,
+  "category": [
+    "nft"
+  ],
+  "description_short": "NFT minting platform with fiat and crypto checkout.",
+  "description_long": "NFT minting, fiat and crypto sales, token launches, and secondary markets \u2014 full launchpad stack delivered through a single API.",
+  "icon": "https://cdn.prod.website-files.com/627424a55a80c8659c58943a/66a3dec08c724972d211ca38_Logo.svg",
+  "official_links": {
+    "website": "https://www.nmkr.io/",
+    "x": "https://x.com/nmkr_io",
+    "discord": "https://discord.com/invite/G6edujdbSU",
+    "telegram": "",
+    "github": "https://github.com/nftmakerio/NMKR-Studio",
+    "docs": "https://docs.nmkr.io/"
+  },
+  "products": [
+    {
+    "name": "NMKR Studio",
+    "description": "Main NFT minting and sales platform. Create projects, manage token sales with fiat and crypto checkout, and launch on multiple blockchains.",
+    "links": {
+      "website": "https://www.nmkr.io/",
+      "app": "https://studio.nmkr.io/",
+      "docs": "https://docs.nmkr.io/",
+      "github": "https://github.com/nftmakerio/NMKR-Studio"
+    }
+  },
+  {
+    "name": "NMKR Identity",
+    "description": "Decentralized identity service built on Atala PRISM. Create a company DID, issue verifiable credentials, and generate signed CIP-725 metadata for Cardano.",
+    "links": {
+      "website": "https://identity.nmkr.io",
+      "app": "https://identity.nmkr.io",
+      "docs": "https://identity.nmkr.io/docs",
+      "github": "https://github.com/nftmakerio/NMKR-Identity"
+    }
+  }
+],
+  "tracked_repositories": [
+    {
+      "name": "NMKR Studio",
+      "url": "https://github.com/nftmakerio/NMKR-Studio"
+    },
+    {
+      "name": "Smart-Contract-Revenue-Sharing",
+      "url": "https://github.com/nftmakerio/Smart-Contract-Revenue-Sharing"
+    },
+    {
+      "name": "NMKR-Identity",
+      "url": "https://github.com/nftmakerio/NMKR-Identity"
+    },
+    {
+      "name": "NMKR-Studio-API-GeneratorTS",
+      "url": "https://github.com/nftmakerio/NMKR-Studio-API-GeneratorTS"
+    },
+    {
+      "name": "NMKR-Launchpage-Template",
+      "url": "https://github.com/nftmakerio/NMKR-Launchpage-Template"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+      "asset_name": "NMKR",
+      "description": "NMKR utility token for the NMKR ecosystem"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489",
+      "policy_name": "NMKR token policy",
+      "description": "Policy for the NMKR utility token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "minting",
+    "nft",
+    "launchpad",
+    "api",
+    "fiat"
+  ],
+  "status": "active",
+  "launch_year": 2021
+}
