@@ -1,0 +1,80 @@
+{
+  "project_id": "echoforge",
+  "name": "EchoForge",
+  "organization": "EchoForge",
+  "verified": false,
+
+  "category": ["infrastructure", "tooling"],
+
+  "description_short": "Identity and proof layer on Cardano. Anchor certificates and file hashes on-chain for a flat $1 in ADA, with a tiered wallet identity layer (EchoID) in development.",
+  "description_long": "EchoForge is a B2B2C identity and proof layer on Cardano, built around one principle: keep it simple. Its live products let anyone prove things on-chain for a flat $1 in ADA. EchoCert anchors certificates and credentials so they can be independently verified on-chain. EchoUploader anchors a file's SHA-256 hash as a permanent proof of existence; the file itself never leaves the user's device. EchoID, a wallet-based identity and tiering layer, is in development. All USD prices settle in ADA via an on-chain oracle (Charli3, with CoinGecko fallback).",
+
+  "icon": "https://raw.githubusercontent.com/EchoForge-Dev/Aiken_Smart-Contract/main/EF.svg",
+
+  "official_links": {
+    "website": "https://echoforgellc.tech",
+    "x": "https://x.com/echoforgeef",
+    "discord": "https://discord.gg/EGsnYNcPp3",
+    "github": "https://github.com/EchoForge-Dev"
+  },
+
+  "products": [
+    {
+      "name": "EchoCert",
+      "description": "Anchors certificates and credentials on Cardano for independent on-chain verification. $1 per certificate in ADA.",
+      "links": {
+        "website": "https://echocert.echoforgellc.tech",
+        "app": "https://echocert.echoforgellc.tech",
+        "github": "https://github.com/EchoForge-Dev/Aiken_Smart-Contract"
+      }
+    },
+    {
+      "name": "EchoUploader",
+      "description": "Creates a permanent on-chain proof of existence for any file by anchoring its SHA-256 hash. $1 per anchor in ADA; the file never leaves the user's device.",
+      "links": {
+        "website": "https://uploader.echoforgellc.tech",
+        "app": "https://uploader.echoforgellc.tech"
+      }
+    },
+    {
+      "name": "EchoID",
+      "description": "Wallet-based identity and tiering layer for the EchoForge ecosystem. In development.",
+      "links": {
+        "website": "https://echoid.echoforgellc.tech"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Aiken Smart Contracts (EchoCert + DocuMint validators)",
+      "url": "https://github.com/EchoForge-Dev/Aiken_Smart-Contract"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "32fd4d6013971be1074d83dc9b4ae3f9512184f10bfad9d1b8e7a158",
+      "policy_name": "EchoCert",
+      "description": "Minting policy for EchoCert on-chain certificate anchoring. Each token name equals SHA-256(name | date | issuer). $1 ADA per issuance."
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "0053a3d560c921a033875965ba47bc1c53d355ac88abeb1b263c35b3",
+      "script_name": "echocert.echocert",
+      "description": "EchoCert minting validator (Plutus v3, Aiken v1.1.21). Issues and revokes on-chain credential certificates as Cardano native tokens."
+    },
+    {
+      "script_id": "ee1b606e93517e18baf7a67d1142107263e8bacb06e6fde28c3975f0",
+      "script_name": "documint.documint",
+      "description": "DocuMint minting validator — early-stage EchoCert predecessor for document hash anchoring. Superseded by echocert."
+    }
+  ],
+
+  "tags": ["cardano", "identity", "notary", "proof-of-existence", "credentials", "opensource"],
+
+  "status": "active",
+  "launch_year": 2026
+}
