@@ -1,0 +1,11 @@
+{
+    "id": "and",
+    "name": "ANDAMIO",
+    "url": "https://www.andamio.io/",
+    "image": "https://www.andamio.io/_next/image?url=%2Flogo-with-typography-stacked-dark.png&w=640&q=75",
+    "description": "Creator of Andamio, open protocol for credential-gated collaboration on Cardano. https://www.andamio.io/",
+    "members": [
+        "pool143nv3macakarny2hvg67gg00q5j2kdg6yfvcmefqmea3vnj0nex" 
+    ],
+    "note": "Optional notes related to this group. Not visible in FE."
+}
