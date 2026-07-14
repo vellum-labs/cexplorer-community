@@ -1,0 +1,73 @@
+{
+  "project_id": "dreptalk",
+  "name": "DRepTalk",
+  "organization": "DRepTalk",
+  "verified": false,
+
+  "category": [
+    "governance",
+    "tooling",
+    "data"
+  ],
+
+  "description_short": "A calmer, accountable home for Cardano governance where DReps, SPOs, CC members and proposers discuss on-chain actions.",
+  "description_long": "DRepTalk is the public deliberation platform for Cardano governance. It automatically imports every on-chain governance action into a dedicated discussion thread, so DReps, SPOs, Constitutional Committee members and proposers can debate a proposal before they vote on it.\n\nAnyone can read along publicly. To post, participants authenticate with a wallet signature, which ties each contribution to a verifiable on-chain identity. Alongside the forum, DRepTalk surfaces DRep profiles, voting records, vote rationales, epoch movers and a live governance activity feed, giving delegators the context they need to choose and hold a DRep accountable.",
+
+  "icon": "https://dreptalk.com/logo.svg",
+
+  "official_links": {
+    "website": "https://dreptalk.com",
+    "x": "https://x.com/dreptalkcom",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/katomm/dreptalk.com",
+    "docs": "https://dreptalk.com/help"
+  },
+
+  "products": [
+    {
+      "name": "DRepTalk",
+      "description": "Governance discussion forum and DRep directory for Cardano, with per-action threads, voting records and rationales.",
+      "links": {
+        "website": "https://dreptalk.com",
+        "app": "https://dreptalk.com",
+        "docs": "https://dreptalk.com/help",
+        "github": "https://github.com/katomm/dreptalk.com"
+      }
+    }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "DRepTalk",
+      "url": "https://github.com/katomm/dreptalk.com"
+    }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+
+  "drep": {
+    "drep_id": "drep1ygnw2fxf00pqwd3dmnluhf3vd06lrmmvxpmx8chjup4x3pcafs46n",
+    "name": "ADAtainment"
+  },
+
+  "pools": [],
+
+  "tags": [
+    "governance",
+    "cardano",
+    "dreps",
+    "voting",
+    "forum",
+    "deliberation",
+    "cip-1694",
+    "spo",
+    "constitutional-committee",
+    "delegation"
+  ],
+
+  "status": "active",
+  "launch_year": 2026
+}
