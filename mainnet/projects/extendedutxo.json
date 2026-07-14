@@ -1,0 +1,62 @@
+{
+  "project_id": "extendedutxo",
+  "name": "ExtendedUTxO",
+  "organization": "ExtendedUTxO",
+  "verified": false,
+
+  "category": [
+    "tooling",
+    "other"
+  ],
+
+  "description_short": "A free, interactive guide to Cardano's Extended UTxO model. Learn by building transactions in a live ledger simulator, no wallet or signup required.",
+  "description_long": "ExtendedUTxO.com is a free, interactive learning platform for Cardano's Extended UTxO (eUTxO) ledger model. Instead of reading theory, learners build transactions and watch how they settle in a live ledger simulator, entirely in the browser with no wallet, no signup and no on-chain cost.\n\nAn eight-chapter curriculum takes about 75 minutes and progresses from UTxO fundamentals through coin selection, the mempool, script validation and DeFi patterns, up to a capstone in which the learner constructs a real eUTxO transaction. A `/live` view streams the current chain tip and recent blocks so the abstract model is grounded in what is actually happening on Cardano right now.",
+
+  "icon": "https://extendedutxo.com/icons/icon-512.png",
+
+  "official_links": {
+    "website": "https://extendedutxo.com",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [
+    {
+      "name": "ExtendedUTxO",
+      "description": "Interactive, browser-based course and live ledger simulator for learning Cardano's eUTxO model.",
+      "links": {
+        "website": "https://extendedutxo.com",
+        "app": "https://extendedutxo.com",
+        "docs": "",
+        "github": ""
+      }
+    }
+  ],
+
+  "tracked_repositories": [],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": [
+    "cardano",
+    "education",
+    "eutxo",
+    "utxo",
+    "learning",
+    "interactive",
+    "ledger",
+    "transactions",
+    "beginner-friendly"
+  ],
+
+  "status": "active",
+  "launch_year": 2026
+}
