@@ -1,0 +1,66 @@
+{
+  "project_id": "gerowallet",
+  "name": "GeroWallet",
+  "organization": "Gero Labs",
+  "verified": true,
+  "category": [
+    "wallet"
+  ],
+  "description_short": "Cardano browser-extension wallet for ada and tokens.",
+  "description_long": "Start exploring the possibilities of Cardano. Purchase, send, and receive ADA - the cryptocurrency for Cardano. Available as a browser extension.",
+  "icon": "https://gerowallet.io/images/Gero.svg",
+  "official_links": {
+    "website": "https://gerowallet.io",
+    "x": "https://x.com/gerowallet",
+    "discord": "https://discord.gg/CK9RADpAcZ",
+    "telegram": "https://t.me/gerowallet",
+    "github": "https://github.com/Gero-Labs",
+    "docs": "https://gerowallet.io/docs/"
+  },
+  "products": [],
+  "tracked_repositories": [
+    {
+      "name": "GeroWallet",
+      "url": "https://github.com/Gero-Labs/gerowallet"
+    },
+    {
+      "name": "maestro-java-client",
+      "url": "https://github.com/Gero-Labs/maestro-java-client"
+    },
+    {
+      "name": "staking-pool",
+      "url": "https://github.com/Gero-Labs/staking-pool"
+    },
+    {
+      "name": "infinity-pools-snapshotter",
+      "url": "https://github.com/Gero-Labs/infinity-pools-snapshotter"
+    },
+    {
+      "name": "yaci-store",
+      "url": "https://github.com/Gero-Labs/yaci-store"
+    }
+  ],
+  "assets": [
+    {
+      "name": "GERO",
+      "policy_id": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b6"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "wallet",
+    "non-custodial",
+    "browser",
+    "mobile",
+    "staking",
+    "dapp-connector"
+  ],
+  "status": "active",
+  "launch_year": 2021
+}

@@ -1,0 +1,87 @@
+{
+  "project_id": "orcfax",
+  "name": "Orcfax",
+  "organization": "Orcfax",
+  "verified": true,
+  "category": [
+    "infrastructure"
+  ],
+  "description_short": "Decentralized oracle for real-world data on Cardano.",
+  "description_long": "Decentralized oracle service publishing real-world event data to Cardano. Data is delivered to on-chain Plutus contracts in eUTXO-native format.",
+  "icon": "https://orcfax.io/logo.svg",
+  "official_links": {
+    "website": "https://orcfax.io",
+    "x": "https://x.com/orcfax",
+    "discord": "https://discord.com/invite/UbAeRuNzDu",
+    "telegram": "",
+    "github": "https://github.com/orcfax",
+    "docs": "https://docs.orcfax.io"
+  },
+  "products": [
+    { "name": "Orcfax Explorer", "url": "https://explorer.orcfax.io" }
+  ],
+  "tracked_repositories": [
+    {
+      "name": "Orcfax Aiken",
+      "url": "https://github.com/orcfax/orcfax-aiken"
+    },
+    {
+      "name": "docs",
+      "url": "https://github.com/orcfax/docs"
+    },
+    {
+      "name": "collector-node",
+      "url": "https://github.com/orcfax/collector-node"
+    },
+    {
+      "name": "datum-demo",
+      "url": "https://github.com/orcfax/datum-demo"
+    },
+    {
+      "name": "pubwatch",
+      "url": "https://github.com/orcfax/pubwatch"
+    },
+    { 
+      "name": "publish", 
+      "url": "https://github.com/orcfax/publish" 
+    },
+    { 
+      "name": "cnt-collector-node", 
+      "url": "https://github.com/orcfax/cnt-collector-node" 
+    },
+    { 
+      "name": "validator-node-api", 
+      "url": "https://github.com/orcfax/validator-node-api" 
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
+      "asset_name": "FACT",
+      "description": "Orcfax utility token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e51",
+      "policy_name": "FACT token policy",
+      "description": "Minting policy of the Orcfax FACT token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "oracle",
+    "opensource",
+    "decentralized",
+    "data-feeds",
+    "eutxo",
+    "plutus"
+  ],
+  "status": "active",
+  "launch_year": 2023
+}

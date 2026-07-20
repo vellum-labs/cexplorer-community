@@ -1,0 +1,37 @@
+{
+  "project_id": "pooltool",
+  "name": "PoolTool",
+  "organization": "PoolTool",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Feature-rich pool tool with companion native app.",
+  "description_long": "Feature-rich, unbiased Cardano pool tool with delegation analytics, missed-block detection, and a companion native mobile app.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1232815971204661249/-XEz25pc_400x400.png",
+
+  "official_links": {
+    "website": "https://pooltool.io",
+    "x": "https://x.com/Pooltoolio",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/papacarp/pooltool.io",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "pooltool.io", "url": "https://github.com/papacarp/pooltool.io" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["pooltool", "delegation", "stake-pool", "mobile-app"],
+
+  "status": "active",
+  "launch_year": 2019
+}

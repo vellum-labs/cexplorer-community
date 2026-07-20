@@ -1,0 +1,35 @@
+{
+  "project_id": "taptools",
+  "name": "TapTools",
+  "organization": "TapTools",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Cardano portfolio tracker and market analytics.",
+  "description_long": "All-in-one Cardano portfolio tracker and market analytics platform with token charts, DeFi analytics, and on-chain activity dashboards. One of the most widely used analytics platforms in the Cardano ecosystem, TapTools announced its shutdown in June 2026 after four years of operation.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1872683481178009600/_yVhhJr3_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.taptools.io",
+    "x": "https://x.com/TapTools",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["analytics", "portfolio", "charts", "nft", "trading"],
+
+  "status": "discontinued",
+  "launch_year": 2022 
+}

@@ -1,0 +1,44 @@
+{
+  "project_id": "wanbridge",
+  "name": "WanBridge",
+  "organization": "Wanchain",
+  "verified": true,
+
+  "category": ["infrastructure"],
+
+  "description_short": "Cross-chain bridge for EVM and non-EVM networks.",
+  "description_long": "Decentralized cross-chain bridge infrastructure by Wanchain connecting Cardano with Bitcoin, Ethereum, and 30+ EVM and non-EVM networks. Bridge nodes use secure multiparty computation and Shamir's Secret Sharing, with permissionless, monthly-rotated node operators. Its 2023 Cardano integration brought the first fiat-backed stablecoins (USDC, USDT) to the Cardano mainnet.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1995813823979155456/bZGCL7UV_400x400.jpg",
+
+  "official_links": {
+    "website": "https://bridge.wanchain.org",
+    "x": "https://x.com/wanchain_org",
+    "discord": "",
+    "telegram": "https://t.me/WanchainCHAT",
+    "github": "https://github.com/wanchain",
+    "docs": "https://docs.wanchain.org"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [
+    { "name": "BTC",  "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "425443" },
+  { "name": "ETH",  "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "455448" },
+  { "name": "WAN",  "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "57414e" },
+  { "name": "SOL",  "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "534f4c" },
+  { "name": "USDC", "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "55534443" },
+  { "name": "USDT", "policy_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", "asset_name": "55534454" }
+  ],
+  "policy": [
+    "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935"
+  ],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["bridge", "evm", "cross-chain", "threshold-signatures", "wanchain"],
+
+  "status": "active",
+  "launch_year": 2023
+}

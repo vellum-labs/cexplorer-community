@@ -1,0 +1,74 @@
+{
+  "project_id": "liqwid",
+  "name": "Liqwid",
+  "organization": "Liqwid Labs",
+  "verified": true,
+  "category": [
+    "defi"
+  ],
+  "description_short": "Non-custodial lending with liquid staking.",
+  "description_long": "Non-custodial pooled lending protocol on Cardano with liquid staking, supporting multiple supplied assets and qToken collateral receipts. Governed by the Liqwid DAO via the LQ token.",
+  "icon": "https://pbs.twimg.com/profile_images/1830681334236487682/EWVKfKrZ_400x400.png",
+  "official_links": {
+    "website": "https://app.liqwid.finance",
+    "x": "https://x.com/liqwidfinance",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/liqwid-labs",
+    "docs": ""
+  },
+  "products": [
+    { "name": "Liqwid App", "url": "https://app.liqwid.finance" }
+  ],
+  "tracked_repositories": [
+    {
+      "name": "Liqwid Labs",
+      "url": "https://github.com/liqwid-labs"
+    },
+    {
+      "name": "agora",
+      "url": "https://github.com/Liqwid-Labs/agora"
+    },
+    {
+      "name": "liqwid-liquidation-bot",
+      "url": "https://github.com/Liqwid-Labs/liqwid-liquidation-bot"
+    },
+    {
+      "name": "liqwid-libs",
+      "url": "https://github.com/Liqwid-Labs/liqwid-libs"
+    },
+    {
+      "name": "liqwid-nix",
+      "url": "https://github.com/Liqwid-Labs/liqwid-nix"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+      "asset_name": "LQ",
+      "description": "Liqwid DAO governance token"
+    }
+  ],
+  "policy": [
+    {
+      "policy_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
+      "policy_name": "LQ token policy",
+      "description": "Policy for the LQ Liqwid DAO token"
+    }
+  ],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "lending",
+    "opensource",
+    "liquid-staking",
+    "non-custodial",
+    "defi"
+  ],
+  "status": "active",
+  "launch_year": 2023
+}

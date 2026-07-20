@@ -1,0 +1,42 @@
+{
+  "project_id": "cswap",
+  "name": "CSWAP",
+  "organization": "CSWAP Systems",
+  "verified": true,
+
+  "category": ["dex"],
+
+  "description_short": "DEX for tokens, NFTs, and real-world assets.",
+  "description_long": "Hybrid AMM/orderbook DEX merging DeFi with NFTfi. Runs the first NFT DEX on Cardano alongside a fungible token DEX, with multi-asset liquidity pools and real-world assets on the roadmap.",
+
+  "icon": "https://cardano.org/img/app-icons/cswap.jpg",
+
+  "official_links": {
+    "website": "https://www.cswap.fi/",
+    "x": "https://x.com/CswapDEX",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://docs.cswap.fi"
+  },
+
+  "products": [
+    { "name": "CSWAP DEX App", "url": "https://app.cswap.fi" }
+  ],
+  "tracked_repositories": [],
+  "assets": [
+    {
+      "name": "CSWAPC",
+      "policy_id": "bf524874448cbf52be3a26133b0a0edf5eb65c09ffed383b881ad327"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["dex", "rwa", "nft", "tokens"],
+
+  "status": "active",
+  "launch_year": 2021
+}

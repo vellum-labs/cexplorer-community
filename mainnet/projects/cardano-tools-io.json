@@ -1,0 +1,37 @@
+{
+  "project_id": "cardano-tools-io",
+  "name": "Cardano-Tools.io",
+  "organization": "cardano-tools.io",
+  "verified": true,
+
+  "category": ["nft"],
+
+  "description_short": "Open-source toolkit to create, register, and explore Cardano NFTs.",
+  "description_long": "Open-source toolkit for creating, registering, and exploring Cardano NFTs and native tokens. Covers metadata setup, minting policies, and royalty registration. MIT-licensed, run by a single independent developer.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://cardano-tools.io",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/wutzebaer/cardano-tools",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "cardano-tools", "url": "https://github.com/wutzebaer/cardano-tools" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["minting", "nft", "native-tokens", "opensource", "client-side", "royalties"],
+
+  "status": "active",
+  "launch_year": 2021
+}

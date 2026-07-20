@@ -1,0 +1,43 @@
+{
+  "project_id": "iagon",
+  "name": "Iagon",
+  "organization": "Iagon",
+  "verified": true,
+
+  "category": ["marketplace"],
+
+  "description_short": "Decentralized storage and compute marketplace.",
+  "description_long": "Iagon is a shared storage and compute economy bridging decentralization with compliance for Web 3.0. Node operators offer storage and computing resources on a decentralized cloud marketplace powered by the IAG token.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1777810775903506432/dMf2B6gk_400x400.jpg",
+
+  "official_links": {
+    "website": "https://iagon.com",
+    "x": "https://x.com/IagonOfficial",
+    "discord": "",
+    "telegram": "https://t.me/iagonofficial",
+    "github": "https://github.com/Iagonorg",
+    "docs": "https://docs.iagon.com"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Mainnet Compute Node", "url": "https://github.com/Iagonorg/Mainnet-Compute-Node" },
+    { "name": "Testnet Storage Node", "url": "https://github.com/Iagonorg/testnet-iagon-storage-node" }
+  ],
+  "assets": [
+    {
+      "name": "IAG",
+      "policy_id": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["marketplace", "storage", "compute", "decentralized-cloud", "ai"],
+
+  "status": "active",
+  "launch_year": 2022
+}
