@@ -1,0 +1,64 @@
+{
+  "project_id": "claimpaign",
+  "name": "Claimpaign",
+  "organization": "Claimpaign",
+  "verified": false,
+
+  "category": [
+    "tooling",
+    "infrastructure",
+    "nft"
+  ],
+
+  "description_short": "Cardano airdrops people actually claim. Create ada, token and NFT claim campaigns, hand out QR codes, and pay only for the codes that get redeemed.",
+  "description_long": "Claimpaign is a claim-campaign platform for Cardano built on CIP-99. Organizers create a campaign for ada, fungible tokens or NFTs, and the system generates unique claim codes encoded as CIP-99 QR codes for printing or digital sharing.\n\nRecipients scan a code with any CIP-99 compatible wallet, which posts their address to the campaign faucet; the server then builds and submits a single on-chain transaction per claim from a hot wallet. Because settlement happens only on redemption, organizers pay for the codes people actually claim and unclaimed credits are refunded when the campaign ends. Real-time tracking shows claims, wallet activity and redemption status throughout. It is aimed at event organizers, conference hosts, meetups and hackathons that need frictionless onboarding and distribution.",
+
+  "icon": "https://claimpaign.com/android-chrome-512x512.png",
+
+  "official_links": {
+    "website": "https://claimpaign.com",
+    "x": "https://x.com/claimpaign",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://claimpaign.com/docs/"
+  },
+
+  "products": [
+    {
+      "name": "Claimpaign",
+      "description": "CIP-99 claim-campaign platform for distributing ada, tokens and NFTs via QR codes.",
+      "links": {
+        "website": "https://claimpaign.com",
+        "app": "https://claimpaign.com",
+        "docs": "https://claimpaign.com/docs/",
+        "github": ""
+      }
+    }
+  ],
+
+  "tracked_repositories": [],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": [
+    "cardano",
+    "cip-99",
+    "airdrop",
+    "claim",
+    "qr-code",
+    "nft",
+    "tokens",
+    "onboarding",
+    "distribution",
+    "events"
+  ],
+
+  "status": "active",
+  "launch_year": 2026
+}
