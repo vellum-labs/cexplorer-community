@@ -1,0 +1,37 @@
+{
+  "project_id": "cardano-academy",
+  "name": "Cardano Academy",
+  "organization": "Cardano Foundation",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Online courses on Cardano and blockchain basics.",
+  "description_long": "Online courses on blockchain fundamentals, consensus algorithms, transaction models, scaling, and Cardano governance, staking, and dApp development.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://learn.academy.cardanofoundation.org",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/cardano-foundation/cardano-academy",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "cardano-academy", "url": "https://github.com/cardano-foundation/cardano-academy" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["education", "courses", "blockchain", "cardano-foundation"],
+
+  "status": "active",
+  "launch_year": 2023
+}

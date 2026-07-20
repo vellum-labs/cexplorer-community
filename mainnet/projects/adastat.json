@@ -1,0 +1,41 @@
+{
+  "project_id": "adastat",
+  "name": "AdaStat",
+  "organization": "AdaStat",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Detailed Cardano explorer with stats and insights.",
+  "description_long": "Cardano explorer with deep statistics and insights covering blocks, transactions, addresses, stake pools, and protocol parameters.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1601853682680840197/0olJJGNf_400x400.jpg",
+
+  "official_links": {
+    "website": "https://adastat.net",
+    "x": "https://x.com/ada_stat",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/CardanoExplorer",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "adastat-indexer", "url": "https://github.com/CardanoExplorer/adastat-indexer" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  
+  "drep": { 
+    "drep_id": "drep1wfwvaduzxyg75a67m5k0u4m746ymzefqs4nsxz2mrv5dwm22ntt",
+    "name": "AdaStat" },
+
+  "pools": ["pool1w7c2j0px43jmudhf48ezp7dy8j7904c9l3wc7809lhh2z026hch"],
+
+  "tags": ["explorer", "statistics", "stake-pools", "transactions", "api", "opensource"],
+
+  "status": "active",
+  "launch_year": 2019
+}

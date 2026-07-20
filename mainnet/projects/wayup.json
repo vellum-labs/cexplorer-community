@@ -1,0 +1,35 @@
+{
+  "project_id": "wayup",
+  "name": "Wayup",
+  "organization": "Anvil",
+  "verified": true,
+
+  "category": ["marketplace, nft, aggregator"],
+
+  "description_short": "Cardano NFT marketplace and aggregator by Anvil.",
+  "description_long": "Cardano NFT marketplace and aggregator built by Anvil. Aggregates listings from multiple marketplaces, supports bundle purchases, and offers fee-free trading for holders of Funplastics or Benjamin's Key. Supports migration of JpgStore listings and smart contracts.",
+
+  "icon": "https://pbs.twimg.com/profile_images/2049873298893266944/A0p00tdO_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.wayup.io",
+    "x": "https://x.com/wayupio",
+    "discord": "https://discord.gg/74pNJRyHj9",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["marketplace", "nft", "anvil", "jpgstore-successor"],
+
+  "status": "active",
+  "launch_year": 2023
+}

@@ -1,0 +1,41 @@
+{
+  "project_id": "dexhunter",
+  "name": "DexHunter",
+  "organization": "DexHunter",
+  "verified": true,
+
+  "category": ["dex"],
+
+  "description_short": "Cardano DEX aggregator with real-time alerts.",
+  "description_long": "Cardano DEX aggregator that routes trades across all major venues for competitive pricing, with real-time alerts and a unified interface.",
+
+  "icon": "https://pbs.twimg.com/profile_images/2022946735090188288/PKXaSjrQ_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.dexhunter.io/",
+    "x": "https://x.com/dexhunterio",
+    "discord": "https://discord.gg/TjS72s84tV",
+    "telegram": "",
+    "github": "",
+    "docs": "https://docs.dexhunter.io"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [
+    {
+      "asset_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+      "asset_name": "HUNT",
+      "description": "DexHunter utility and governance token"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["dex", "aggregator", "trading", "alerts", "defi"],
+
+  "status": "active",
+  "launch_year": 2022
+}

@@ -1,0 +1,39 @@
+{
+  "project_id": "cardano-scan",
+  "name": "Cardano Scan",
+  "organization": "Strica",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Block explorer and pool tool with own db-sync.",
+  "description_long": "Block explorer and pool tool from the makers of Typhon, with its own indexing stack providing fast access to the full Cardano ledger.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1288504899018174465/y6F-zEIW_400x400.jpg",
+
+  "official_links": {
+    "website": "https://cardanoscan.io/",
+    "x": "https://x.com/cardanoscanio",
+    "discord": "https://discord.gg/WQFPHNXcz8",
+    "telegram": "",
+    "github": "https://github.com/StricaHQ",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "cardanoscan-js", "url": "https://github.com/StricaHQ/cardanoscan-js" },
+    { "name": "cardanoscan-python", "url": "https://github.com/StricaHQ/cardanoscan-python" },
+    { "name": "cardano-contracts-registry", "url": "https://github.com/StricaHQ/cardano-contracts-registry" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["explorer", "pool-tool", "api"],
+
+  "status": "active",
+  "launch_year": 2021
+}

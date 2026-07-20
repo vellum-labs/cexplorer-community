@@ -1,0 +1,35 @@
+{
+  "project_id": "cardanocube",
+  "name": "CardanoCube",
+  "organization": "CardanoCube",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Directory of 650+ projects building on Cardano.",
+  "description_long": "Curated directory of 650+ projects building on Cardano, organized by category with filters for DeFi, NFTs, governance, infrastructure, and more.",
+
+  "icon": "https://cdn.cardanocube.com/LogoIcon-928cd8eb8f623a685889e70f2f29310dff8017a5db77bed0108ebc76947c7894.png",
+
+  "official_links": {
+    "website": "https://www.cardanocube.com/",
+    "x": "https://x.com/CardanoCube",
+    "discord": "https://discord.gg/ndpFEG6ysw",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["ecosystem", "directory", "data", "curated"],
+
+  "status": "active",
+  "launch_year": 2021
+}

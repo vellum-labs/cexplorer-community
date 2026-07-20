@@ -1,0 +1,45 @@
+{
+  "project_id": "vyfinance",
+  "name": "VyFinance",
+  "organization": "VyFinance",
+  "verified": true,
+
+  "category": ["dex"],
+
+  "description_short": "DeFi protocol with DEX, vaults, and governance.",
+  "description_long": "Cardano DeFi protocol with a decentralized exchange, redistributive BAR mechanism, governance, lottery, and token and NFT vaults bundled together.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1584683531917213696/V9WDHd_l_400x400.png",
+
+  "official_links": {
+    "website": "https://vyfi.io",
+    "x": "https://x.com/VyFiOfficial",
+    "discord": "https://discord.com/invite/xGAD3hSXbu",
+    "telegram": "https://t.me/vyfinance",
+    "github": "https://github.com/vyfi",
+    "docs": "https://docs.vyfi.io"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [
+    {
+      "asset_id": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+      "asset_name": "VYFI",
+      "description": "VyFinance ecosystem governance token"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [
+    "pool14u30jkg45xwd27kmznz43hxy596lvrrpj0wz8w9a9k97kmt4p2d",
+    "pool1qs6h0y7czzt605kptmrv6cr85kxd6tajr2hs0etvxphv7tr7nqu",
+    "pool1m0drnjxsvnlesq0rwmur2rh6lenuql57jfzd6cf6aegj2cv7ugy"
+  ],
+
+  "tags": ["dex", "defi", "vaults", "governance", "nft"],
+
+  "status": "active",
+  "launch_year": 2021
+}

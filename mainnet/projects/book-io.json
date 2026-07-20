@@ -1,0 +1,41 @@
+{
+  "project_id": "book-io",
+  "name": "Book.io",
+  "organization": "Book.io",
+  "verified": true,
+
+  "category": ["marketplace"],
+
+  "description_short": "NFT marketplace for eBooks and audiobooks.",
+  "description_long": "NFT marketplace where readers buy, read, and resell eBooks and audiobooks. Each title is an asset with verifiable provenance and resale rights.",
+
+  "icon": "https://book.io/wp-content/uploads/2023/04/cropped-book.png",
+
+  "official_links": {
+    "website": "https://book.io",
+    "x": "https://x.com/book_io",
+    "discord": "https://discord.gg/rNyn99WwYZ",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [
+    {
+      "asset_id": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+      "asset_name": "STUFF",
+      "description": "Book.io utility and Read-to-Earn token, formerly BOOK"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["marketplace", "nft", "ebooks", "audiobooks"],
+
+  "status": "active",
+  "launch_year": 2022
+}

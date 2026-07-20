@@ -1,0 +1,43 @@
+{
+  "project_id": "pool-stats",
+  "name": "Pool Stats",
+  "organization": "Elite Stake Pool",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Pool tool with heat-map visualizations.",
+  "description_long": "Cardano stake-pool monitoring with heat-map visualizations of performance, saturation, and rewards across the entire pool universe.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://poolstats.io",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/Elitestakepool/poolstats",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "poolstats", "url": "https://github.com/Elitestakepool/poolstats" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": 
+  { 
+    "drep_id": "drep168zlqu8zua840gr8xalhk2p4r3hvz7r8hhswngyw06gsqp0khfw",
+    "name": "Elite Stake Pool" 
+  },
+  "pools": [
+    "pool1qwa8x4u4a2pff0xdv0haxpgk3tyrvl5adl2lpf3ztcftqruhea0",
+    "pool1k6altfangsst2mmxg8a9wvg3dppyszu8ckfzd3uv6azgw3z2txy"],
+
+  "tags": ["pool-tool", "stake-pool", "heat-map", "performance", "delegate-tool"],
+
+  "status": "active",
+  "launch_year": 2020
+}

@@ -1,0 +1,69 @@
+{
+  "project_id": "wingriders",
+  "name": "WingRiders",
+  "organization": "WingRiders",
+  "verified": true,
+  "category": [
+    "dex"
+  ],
+  "description_short": "Native AMM DEX on Cardano.",
+  "description_long": "Native AMM DEX on Cardano focused on fast settlement and predictable fees, with stableswap pools and an integrated yield-farming layer.",
+  "icon": "https://pbs.twimg.com/profile_images/1833510511230451712/tJ88jbtk_400x400.png",
+  "official_links": {
+    "website": "https://www.wingriders.com",
+    "x": "https://x.com/wingriderscom",
+    "discord": "https://discord.gg/t7CdyhK8JA",
+    "telegram": "https://t.me/WingRidersChat",
+    "github": "https://github.com/WingRiders",
+    "docs": "https://docs.wingriders.com/overview/wingriders-introduction"
+  },
+  "products": [],
+  "tracked_repositories": [
+    {
+      "name": "WingRiders",
+      "url": "https://github.com/WingRiders"
+    },
+    {
+      "name": "cab",
+      "url": "https://github.com/WingRiders/cab"
+    },
+    {
+      "name": "dex-blockfrost-adapter",
+      "url": "https://github.com/WingRiders/dex-blockfrost-adapter"
+    },
+    {
+      "name": "on-chain-dao-governance",
+      "url": "https://github.com/WingRiders/on-chain-dao-governance"
+    },
+    {
+      "name": "dex-serializer",
+      "url": "https://github.com/WingRiders/dex-serializer"
+    },
+    {
+      "name": "cardano-datum-registry",
+      "url": "https://github.com/WingRiders/cardano-datum-registry"
+    }
+  ],
+  "assets": [
+    {
+    "asset_id": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
+    "asset_name": "WRT",
+    "description": "WingRiders DAO governance token"
+    }
+  ],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "dex",
+    "amm",
+    "stableswap",
+    "yield-farming"
+  ],
+  "status": "active",
+  "launch_year": 2022
+}
