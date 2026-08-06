@@ -1,0 +1,37 @@
+{
+  "project_id": "arp-radio",
+  "name": "Arp Radio",
+  "organization": "The Psyence Lab",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Music NFT player based on CIP-60 token standard.",
+  "description_long": "Cardano music ecosystem player by The Psyence Lab. Discover, mint, and play CIP-60 music NFT collections in a custom audio player tuned to consensus and slot timing.",
+
+  "icon": "https://arpradio.media/arpradio.webp",
+
+  "official_links": {
+    "website": "https://arpradio.media",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/arpradio",
+    "docs": "https://arpradio.media/docs"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "arpradio", "url": "https://github.com/arpradio" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["other", "music", "nft", "cip-60", "player"],
+
+  "status": "active",
+  "launch_year": null
+}

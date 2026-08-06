@@ -1,0 +1,38 @@
+{
+  "project_id": "asteria",
+  "name": "Asteria",
+  "organization": "TxPipe",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "On-chain strategy game where everything is a UTxO.",
+  "description_long": "Fully on-chain bot challenge built for developers to showcase the eUTxO model. Code a bot that pilots a ship across a 2D grid where every entity — ships, fuel pellets, rewards — is a Cardano UTxO governed by Aiken validators. Reach the center to claim the reward pool. Open source (Apache-2.0), anyone can run their own challenge.",
+
+  "icon": "https://asteria.txpipe.io/images/logo.svg",
+
+  "official_links": {
+    "website": "https://asteria.txpipe.io",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/txpipe/asteria",
+    "docs": "https://asteria.txpipe.io/how-to-play"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Asteria", "url": "https://github.com/txpipe/asteria" },
+    { "name": "Asteria Starter Kit", "url": "https://github.com/txpipe/asteria-starter-kit" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["game", "opensource", "on-chain", "eutxo", "plutus", "strategy"],
+
+  "status": "active",
+  "launch_year": 2024
+}

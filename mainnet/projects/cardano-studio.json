@@ -1,0 +1,35 @@
+{
+  "project_id": "cardano-studio",
+  "name": "Cardano Studio",
+  "organization": "Cardano Studio",
+  "verified": true,
+
+  "category": ["nft"],
+
+  "description_short": "Self-custody NFT minting in your browser.",
+  "description_long": "Mint NFTs on Cardano fully in your browser — no signup, no third party in the minting flow, you sign and submit transactions yourself. Supports CIP-25 metadata, CIP-27 royalties, and CIP-60 music NFTs, with CSV collection import and transaction bundling (30+ NFTs per transaction at a flat 2 ADA fee). Developed in Switzerland.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1632824532133195778/FQ3WUSL2_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.cardano-studio.app",
+    "x": "https://x.com/cardano_studio",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://cardano-studio.app/documentation"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["minting", "nft", "self-custody", "browser"],
+
+  "status": "active",
+  "launch_year": 2023
+}

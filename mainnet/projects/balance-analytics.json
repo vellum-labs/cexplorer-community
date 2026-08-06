@@ -1,0 +1,41 @@
+{
+  "project_id": "balance-analytics",
+  "name": "BALANCE Analytics",
+  "organization": "BALANCE Analytics",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Decentralization metrics dashboards for Cardano.",
+  "description_long": "Graphical, configurable analytics dashboards specialising in Cardano PoS decentralization metrics, stake distribution, and network health signals. Runs its own full blockchain database for curated on-chain analysis, publishes newsletters on stake pool landscape changes, and operates the BALNC stake pool on self-hosted baremetal infrastructure.",
+
+  "icon": "https://www.balanceanalytics.io/images/ba_header_logo.png",
+
+  "official_links": {
+    "website": "https://www.balanceanalytics.io/",
+    "x": "https://x.com/BalanceData22",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+
+  "pools": [
+    { 
+      "ticker": "BALNC",
+      "pool_id": "pool15s7w4spg5ee7n7rprhs0dq78plw2mhjkpu5v97uvl27gz2way7z"
+    }
+  ],
+
+  "tags": ["analytics", "decentralization", "stake-distribution", "dashboards"],
+
+  "status": "active",
+  "launch_year": 2022
+}

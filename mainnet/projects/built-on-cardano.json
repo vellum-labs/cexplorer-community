@@ -1,0 +1,38 @@
+{
+  "project_id": "built-on-cardano",
+  "name": "Built on Cardano",
+  "organization": "Built on Cardano",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Discover projects and developer tools on Cardano.",
+  "description_long": "Discovery directory for projects, dApps, and developer tools on Cardano. Browse by category, find similar projects, and navigate the ecosystem easily.",
+
+  "icon": "https://builtoncardano.com/images/logo/built-on-cardano-logo-text-w.png",
+
+  "official_links": {
+    "website": "https://builtoncardano.com",
+    "x": "https://x.com/cardanobuilt",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://builtoncardano.com/docs"
+  },
+
+  "products": [
+    { "name": "Data Studio", "url": "https://builtoncardano.com/data-studio" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["ecosystem", "directory", "dapps", "developer-tools"],
+
+  "status": "active",
+  "launch_year": 2021
+}

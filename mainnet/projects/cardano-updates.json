@@ -1,0 +1,35 @@
+{
+  "project_id": "cardano-updates",
+  "name": "Cardano Updates",
+  "organization": "Koios",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Cardano development tracker without GitHub digging.",
+  "description_long": "Tracks Cardano development progress in real time, surfacing pull-request activity and release status without needing to dig through GitHub.",
+
+  "icon": "https://cardanoupdates.koios.rest/koios-logo.svg",
+
+  "official_links": {
+    "website": "https://cardanoupdates.com",
+    "x": "https://x.com/CardanoKoios",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/cardano-community/koios-artifacts",
+    "docs": "https://koios.rest/guide/introduction.html"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["analytics", "dev-tracker", "pull-requests", "releases", "cardano-core"],
+
+  "status": "active",
+  "launch_year": 2021
+}

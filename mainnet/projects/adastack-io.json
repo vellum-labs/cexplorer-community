@@ -1,0 +1,41 @@
+{
+  "project_id": "adastack-io",
+  "name": "Adastack.io",
+  "organization": "Adastack",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Cardano ecosystem explorer and intro guide hub.",
+  "description_long": "Open-source Cardano ecosystem explorer: intro guides, wallets, DApps, NFTs, games, governance, Project Catalyst, DAOs, development, sidechains, L2s and more. Built with a modern React/Next.js stack, MIT-licensed, with 1,500+ curated tools and links across 100+ resource pages and a public REST API.",
+
+  "icon": "https://www.adastack.io/cardano/logo.svg",
+
+  "official_links": {
+    "website": "https://www.adastack.io",
+    "x": "https://x.com/adastackio",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/adastackio/adastack.io",
+    "docs": ""
+  },
+
+  "products": [
+    { "name": "Adastack REST API", "url": "https://www.adastack.io/developers/api/v1" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "adastack.io", "url": "https://github.com/adastackio/adastack.io" }
+  ],
+  
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["ecosystem", "directory", "intro", "guides", "opensource"],
+
+  "status": "active",
+  "launch_year": 2024
+}

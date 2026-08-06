@@ -1,0 +1,38 @@
+{
+  "project_id": "cardano-treasury-explorer",
+  "name": "Cardano Treasury Explorer",
+  "organization": "Cardano Treasury Explorer",
+  "verified": true,
+
+  "category": ["governance"],
+
+  "description_short": "Cardano treasury balance and outflows dashboard.",
+  "description_long": "A dashboard for exploring and analyzing Cardano's treasury data, providing insights into treasury balance, withdrawals, and funding allocations.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://cardanotreasury.fi/",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [
+    { "name": "Payment Calendar", "url": "https://cardanotreasury.fi/calendar" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["governance", "treasury", "dashboard", "analytics"],
+
+  "status": "discontinued",
+  "launch_year": 2025
+}

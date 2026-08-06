@@ -1,0 +1,40 @@
+{
+  "project_id": "atomic-wallet",
+  "name": "Atomic Wallet",
+  "organization": "Atomic Wallet",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Multi-cryptocurrency wallet with Cardano support.",
+  "description_long": "Non-custodial multi-cryptocurrency wallet supporting 1000+ assets including Cardano, with ADA staking, built-in swaps, and fiat on-ramp. Available on desktop (Windows, macOS, Linux), mobile, and as a browser extension. During the Cardano integration the team contributed code to the Cardano Rust library.",
+
+  "icon": "https://atomicwallet.io/images/logo.svg",
+
+  "official_links": {
+    "website": "https://atomicwallet.io",
+    "x": "https://x.com/atomicwallet",
+    "discord": "",
+    "telegram": "t.me/atomicwalletchat",
+    "github": "https://github.com/Atomicwallet",
+    "docs": "https://support.atomicwallet.io"
+  },
+
+  "products": [ 
+    { "name": "Atomic Wallet (iOS)", "url": "https://apps.apple.com/app/atomic-wallet/id1478257827" },
+    { "name": "Atomic Wallet (Android)", "url": "https://play.google.com/store/apps/details?id=io.atomicwallet" },
+    { "name": "Atomic Wallet (Desktop)", "url": "https://atomicwallet.io/downloads" },
+    { "name": "Atomic Wallet (Chrome Extension)", "url": "https://chromewebstore.google.com/detail/atomic-wallet/gjnckgkfmgmibbkoficdidcljeaaaheg" }
+],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["wallet", "multichain", "non-custodial", "ios", "android", "desktop", "staking", "multi-asset"],
+
+  "status": "active",
+  "launch_year": 2018
+}

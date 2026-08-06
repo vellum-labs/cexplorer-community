@@ -1,0 +1,35 @@
+{
+  "project_id": "cardano-wall",
+  "name": "Cardano Wall",
+  "organization": "Cardano Wall",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Sign messages and create proof of existence.",
+  "description_long": "Demonstrates use cases for Cardano transaction metadata. Send permanent messages to the blockchain (CIP-20), anchor file hashes, web pages, and geo-positions as proof of existence, and verify them on-chain. Anchoring proofs on Cardano since 2021.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://cardanowall.com/en/",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["notary", "metadata", "proof-of-existence", "messages"],
+
+  "status": "active",
+  "launch_year": 2021
+}

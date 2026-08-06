@@ -1,0 +1,39 @@
+{
+  "project_id": "adam-cardano-app",
+  "name": "ADAM Cardano App",
+  "organization": "AndroDevs",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "iOS and Android tracker for Cardano wallets.",
+  "description_long": "Mobile app (iOS and Android) for tracking your Cardano wallets, staking rewards, and funds in one cohesive interface, with price widgets and insights.",
+
+  "icon": "https://androdevs.de/wp-content/uploads/2025/05/adam-logo-dark-2025.png",
+
+  "official_links": {
+    "website": "https://androdevs.de",
+    "x": "https://x.com/AndroDevs",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [
+    { "name": "ADAM Cardano (iOS)", "url": "https://apps.apple.com/us/app/adam-cardano/id6444261612" },
+    { "name": "ADAM Cardano (Android)", "url": "https://play.google.com/store/apps/details?id=com.esodot.andro.monitor" }
+],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["other", "nft", "mobile", "tracker", "ios", "android"],
+
+  "status": "active",
+  "launch_year": 2022
+}

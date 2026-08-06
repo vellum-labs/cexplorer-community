@@ -1,0 +1,70 @@
+{
+  "project_id": "bodega-market",
+  "name": "Bodega Market",
+  "organization": "Bodega Labs",
+  "verified": true,
+
+  "category": [
+    "marketplace"
+  ],
+
+  "description_short": "Cardano prediction market for real-world events.",
+  "description_long": "Open-source prediction market on Cardano for speculating on real-world event outcomes. Wagers are placed in the USDM stablecoin and markets settle on-chain via Aiken smart contracts using Charli3 oracle data. Governed by the $BODEGA token, with community-created markets approved through governance votes.",
+  
+  "icon": "https://www.bodegamarket.xyz/assets/img/logo/logo-main.svg",
+
+  "official_links": {
+    "website": "https://www.bodegamarket.xyz/",
+    "x": "https://x.com/bodegacardano",
+    "discord": "https://discord.com/invite/GQKzhjaW53",
+    "telegram": "",
+    "github": "https://github.com/bodega-market/bodega-market-smart-contracts",
+    "docs": "https://docs.bodegacardano.org/"
+  },
+
+  "products": [
+    { "name": "Bodega Market V3", "url": "https://v3.bodegamarket.io/" }
+  ],
+
+  "tracked_repositories": [
+    {
+      "name": "Bodega Market Smart Contracts",
+      "url": "https://github.com/bodega-market/bodega-market-smart-contracts"
+    },
+    {
+      "name": "bodega-market-smart-contracts-v2",
+      "url": "https://github.com/bodega-market/bodega-market-smart-contracts-v2"
+    },
+    {
+      "name": "bodega-market-docs",
+      "url": "https://github.com/bodega-market/bodega-market-docs"
+    }
+  ],
+  "assets": [
+    {
+      "name": "BODEGA",
+      "policy_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
+      "asset_name": "424f44454741"
+    }
+  ],
+
+  "policy": [
+    "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae"
+  ],
+
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "marketplace",
+    "opensource",
+    "prediction-market",
+    "oracle",
+    "plutus"
+  ],
+  "status": "active",
+  "launch_year": 2024
+}

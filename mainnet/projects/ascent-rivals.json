@@ -1,0 +1,37 @@
+{
+  "project_id": "ascent-rivals",
+  "name": "Ascent Rivals",
+  "organization": "Genun Games",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Multiplayer racing-combat game with rival contracts.",
+  "description_long": "Multiplayer racing-combat game with dual-engine twin-stick controls by Genun Games. Compete in tournaments, place rival contracts, and master risk-reward death racing. Award-winning indie title (PAX Rising, DreamHack Indie Playground) distributed on Steam.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1844816488089411584/lONUW5FW_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.ascentrivals.com/",
+    "x": "https://x.com/AscentRivals",
+    "discord": "https://discord.gg/ascentrivals",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [
+    { "name": "Ascent: Rivals on Steam", "url": "https://store.steampowered.com/app/2748420/Ascent_Rivals" }
+  ],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["game", "multiplayer", "racing", "tournaments"],
+
+  "status": "active",
+  "launch_year": null
+}

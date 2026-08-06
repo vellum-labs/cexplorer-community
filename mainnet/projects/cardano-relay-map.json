@@ -1,0 +1,41 @@
+{
+  "project_id": "cardano-relay-map",
+  "name": "Cardano Relay Map",
+  "organization": "MonadPool",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Geographic map of Cardano stake-pool relays.",
+  "description_long": "Geographic map of Cardano stake-pool relay nodes with filters for region, pool, and operator. Useful for monitoring decentralization in real time.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://monadpool.com/cardano.html",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+
+  "pools": [
+    {
+      "ticker": "MONAD",
+      "pool_id": "pool1xcn2yddehm5ncjx0p24vkguth4rta7zv3getcztflxs3kh9rexd"
+    }
+  ],
+
+  "tags": ["pooltool", "relay-map", "decentralization", "geographic"],
+
+  "status": "discontinued",
+  "launch_year": 2021
+}
