@@ -1,0 +1,44 @@
+{
+  "project_id": "dano-finance",
+  "name": "Dano Finance",
+  "organization": "Dano Finance",
+  "verified": true,
+
+  "category": ["defi"],
+
+  "description_short": "DeFi platform for lending, borrowing, and trading.",
+  "description_long": "All-in-one DeFi platform on Cardano combining lending, borrowing, and trading. Started as Danogo with the Bond DEX — the first and only exchange for Cardano fixed-rate staking bonds, supporting both Optim Bonds and Dano Staking Bonds, which let users lend or borrow the staking rights of their ada. Now also offers fixed-rate lending with predictable interest, flexible lending with utilization-based rates, leverage trading, and a yield aggregator that compares returns across Cardano protocols. Smart contracts are open source and audited by Anastasia Labs.",
+
+  "icon": "https://pbs.twimg.com/profile_images/2041464398729134080/bEUz9FVY_400x400.jpg",
+
+  "official_links": {
+    "website": "https://dano.finance/",
+    "x": "https://x.com/DanoFinance",
+    "discord": "https://discord.gg/tb9K8sjmuq",
+    "telegram": "https://t.me/danogo_io",
+    "github": "https://github.com/Danogo2023",
+    "docs": "https://docs.dano.finance/"
+  },
+
+  "products": [
+    { "name": "Bond DEX", "url": "https://dano.finance/bond" },
+  { "name": "Yield Aggregator", "url": "https://dano.finance/yield-aggregator" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "bond-dex", "url": "https://github.com/Danogo2023/bond-dex" },
+    { "name": "bond-issue", "url": "https://github.com/Danogo2023/bond-issue" },
+    { "name": "daken", "url": "https://github.com/Danogo2023/daken" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["lending", "defi", "borrowing", "bonds", "trading"],
+
+  "status": "active",
+  "launch_year": 2023
+}

@@ -1,0 +1,39 @@
+{
+  "project_id": "commitproof",
+  "name": "CommitProof",
+  "organization": "CommitProof",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Tamper-proof timestamps for files and ideas.",
+  "description_long": "Prove what you knew and when, using a commit-reveal scheme. A SHA-256 hash of your text or file is computed in the browser with a random salt, and only that hash is written to Cardano as transaction metadata under label 8413 — the original never leaves your device. Each proof costs 3 ada, requires no account, and returns a downloadable PDF or JSON proof file containing the transaction hash, original content and salt needed for later verification. Anyone can independently recompute the hash and confirm the block timestamp; all proofs are listed in a public explorer.",
+
+  "icon": "https://commitproof.com/brand/commitproof-icon.svg",
+
+  "official_links": {
+    "website": "https://commitproof.com",
+    "x": "https://x.com/CommitProof",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://commitproof.com/commit-reveal-scheme/"
+  },
+
+  "products": [
+    { "name": "Create Proof", "url": "https://commitproof.com/create/" },
+    { "name": "Verify", "url": "https://commitproof.com/verify/" },
+    { "name": "Proof Explorer", "url": "https://commitproof.com/proofs/" }
+  ],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["notary", "timestamp", "proof", "hash", "metadata-label-8413"],
+
+  "status": "active",
+  "launch_year": null
+}

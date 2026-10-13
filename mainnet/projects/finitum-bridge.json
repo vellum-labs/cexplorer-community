@@ -1,0 +1,40 @@
+{
+  "project_id": "finitum-bridge",
+  "name": "Finitum Bridge",
+  "organization": "Staking Rocks! [PHRCK]",
+  "verified": true,
+
+  "category": ["infrastructure"],
+
+  "description_short": "Cross-chain bridge between Cardano and BSC.",
+  "description_long": "Custodial cross-chain bridge for moving supported tokens between Cardano and BNB Chain using a lock-mint-burn-unlock mechanism. BEP20 tokens are locked in a smart contract on BSC and a corresponding Cardano native token is minted; burning the Cardano side unlocks and returns the original asset. Supported tokens are BUSD, UMB, BHC, and HPS. Built by the Staking Rocks! [PHRCK] stake pool, originally to distribute Umbrella Network validator rewards to Cardano delegators.",
+
+  "icon": "https://finitum.io/assets/media/finitum-logo.png",
+
+  "official_links": {
+    "website": "https://finitum.io/bridge",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://stakingrocks.medium.com/introducing-the-finitum-bridge-bsc-cardano-token-bridge-d1dc4577f809"
+  },
+
+  "products": [
+    { "name": "BSC-Cardano Bridge", "url": "https://finitum.io/bridge" },
+    { "name": "Cardano Bulk Sender", "url": "https://finitum.io/bulk-sender" },
+    { "name": "RNR Token Rewards", "url": "https://finitum.io/rnr-rewards" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["bridge", "bsc", "cross-chain", "wrapped"],
+
+  "status": "active",
+  "launch_year": 2023
+}

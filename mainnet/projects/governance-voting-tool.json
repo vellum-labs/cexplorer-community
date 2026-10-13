@@ -1,0 +1,37 @@
+{
+  "project_id": "governance-voting-tool",
+  "name": "Governance Voting Tool",
+  "organization": "Cardano Foundation",
+  "verified": true,
+
+  "category": ["governance"],
+
+  "description_short": "Vote and publish rationales on Cardano governance.",
+  "description_long": "Open-source tool that makes Cardano governance voting practical for SPOs, DReps, and Constitutional Committee members. Supports both VKey and script voters and works with any wallet type — light, hardware, or cold. Beyond casting the vote, it helps compose a vote rationale in the correct JSON metadata format, pin that metadata to IPFS for permanent storage, and generate formatted PDFs of the rationale. Can be self-hosted from a published container. Built with a Python backend and an Elm frontend, Apache-2.0 licensed.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://voting.cardanofoundation.org/",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/cardano-foundation/cardano-governance-voting-tool",
+    "docs": "https://github.com/cardano-foundation/cardano-governance-voting-tool#readme"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Cardano Governance Voting Tool", "url": "https://github.com/cardano-foundation/cardano-governance-voting-tool" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["governance", "opensource", "voting", "drep", "cardano-foundation"],
+
+  "status": "active",
+  "launch_year": 2024
+}

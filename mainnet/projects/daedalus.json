@@ -1,0 +1,37 @@
+{
+  "project_id": "daedalus",
+  "name": "Daedalus",
+  "organization": "Se7en Labs",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Cardano's only full-node desktop wallet.",
+  "description_long": "Open-source full-node desktop wallet for ada. Unlike light wallets, Daedalus runs a Cardano node locally and independently validates the entire chain, so users never rely on third-party servers and can submit transactions directly to the mempool even during network congestion. Includes hierarchical deterministic multi-wallet management, Ledger and Trezor hardware wallet support, DRep voting delegation, and Mithril-based fast sync that reduces initial synchronisation from days to minutes. Runs on Windows, macOS, and Linux. Originally built by IOG; since 2026 maintained by Se7en Labs, funded through a Cardano treasury withdrawal.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1739934472659726336/hXUFeDT6_400x400.jpg",
+
+  "official_links": {
+    "website": "https://daedaluswallet.io",
+    "x": "https://x.com/DaedalusWallet_",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/input-output-hk/daedalus",
+    "docs": "https://docs.cardano.org/cardano-components/daedalus-wallet/"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Daedalus", "url": "https://github.com/input-output-hk/daedalus" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["wallet", "opensource", "full-node", "desktop", "non-custodial", "staking", "multi-account"],
+
+  "status": "active",
+  "launch_year": 2017
+}

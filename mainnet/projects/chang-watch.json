@@ -1,0 +1,39 @@
+{
+  "project_id": "chang-watch",
+  "name": "Chang Watch",
+  "organization": "Cerkoryn",
+  "verified": true,
+
+  "category": ["governance"],
+
+  "description_short": "Vote distribution and DRep insights dashboard.",
+  "description_long": "Open-source Cardano governance dashboard that visualizes voting power distribution as donut charts, broken down by governance action type and by voting entity — Constitutional Committee, DReps, SPOs, and combined totals. Includes a toggle for including or excluding inactive DReps. DRep and stake pool data is sourced from Koios, pool group data from Balance Analytics. Built by community member Cerkoryn as a SvelteKit app.",
+
+  "icon": "https://pbs.twimg.com/profile_images/2007497300461961216/Byd4kXmk_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.changwatch.com",
+    "x": "https://x.com/cerkoryn",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/Cerkoryn/Cardano-Governance-Dashboard",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { 
+      "name": "Cardano Governance Dashboard", 
+      "url": "https://github.com/Cerkoryn/Cardano-Governance-Dashboard" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["governance", "dashboard", "drep", "voting", "opensource", "analytics"],
+
+  "status": "active",
+  "launch_year": 2024
+}

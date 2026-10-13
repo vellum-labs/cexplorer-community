@@ -1,0 +1,48 @@
+{
+  "project_id": "fluidtokens",
+  "name": "FluidTokens",
+  "organization": "FluidTokens",
+  "verified": true,
+  "category": [
+    "defi"
+  ],
+  "description_short": "Cardano-Bitcoin lending and borrowing protocol.",
+  "description_long": "Cardano-native DeFi protocol spanning lending and borrowing against tokens and NFTs, lender liquidity pools, staking, sponsored transactions, rentals, and boosted stake. Also builds core infrastructure: Aquarium for automatic smart contracts on Cardano, the Bifrost bridge for Bitcoin, native BTC and ETH accounts, and CIP-113 programmable token tooling.",
+  "icon": "https://fluidtokens.com/assets/images/logos/logo.svg",
+  "official_links": {
+    "website": "https://fluidtokens.com/",
+    "x": "https://x.com/FluidTokens",
+    "discord": "https://discord.com/invite/s8q4kG48Mg",
+    "telegram": "",
+    "github": "https://github.com/FluidTokens",
+    "docs": "https://docs.fluidtokens.com/"
+  },
+  "products": [],
+
+  "tracked_repositories": [
+    { "name": "ft-cardano-loans-v4", "url": "https://github.com/FluidTokens/ft-cardano-loans-v4" },
+    { "name": "ft-bifrost-bridge", "url": "https://github.com/FluidTokens/ft-bifrost-bridge" },
+    { "name": "ft-aquarium-node", "url": "https://github.com/FluidTokens/ft-aquarium-node" },
+    { "name": "ft-cardano-aquarium-sc", "url": "https://github.com/FluidTokens/ft-cardano-aquarium-sc" },
+    { "name": "ft-cardano-fluidswaps-sc", "url": "https://github.com/FluidTokens/ft-cardano-fluidswaps-sc" },
+    { "name": "ft-cip-113", "url": "https://github.com/FluidTokens/ft-cip-113" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "lending",
+    "opensource",
+    "bitcoin",
+    "defi",
+    "borrowing"
+  ],
+  "status": "active",
+  "launch_year": 2022
+}

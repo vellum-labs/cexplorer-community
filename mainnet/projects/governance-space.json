@@ -1,0 +1,43 @@
+{
+  "project_id": "governance-space",
+  "name": "Governance Space",
+  "organization": "Governance Space",
+  "verified": true,
+
+  "category": ["governance"],
+
+  "description_short": "All-in-one Cardano governance portal.",
+  "description_long": "Transparency portal for Cardano on-chain governance. Brings DReps, governance actions, proposals, budget discussions, and Constitutional Committee members together in one place, with interactive dashboards and analytics for tracking votes and participation. Positioned as a multi-chain platform for DAOs, projects, and institutions, offered as a whitelabel system, with Cardano as the first supported network.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1883978192781709312/7Tn1WN2y_400x400.png",
+
+  "official_links": {
+    "website": "https://governancespace.com/",
+    "x": "https://x.com/governancevote",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://governancespace.com/en-us/help"
+  },
+
+  "products": [
+    { "name": "DReps Directory", "url": "https://governancespace.com/en-us/dreps" },
+    { "name": "Governance Actions", "url": "https://governancespace.com/en-us/governance" },
+    { "name": "Proposals", "url": "https://governancespace.com/en-us/proposals" },
+    { "name": "Budget Discussions", "url": "https://governancespace.com/en-us/budget-discussions" },
+    { "name": "Committee Members", "url": "https://governancespace.com/en-us/committees" },
+    { "name": "Analytics", "url": "https://governancespace.com/en-us/analytics" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["governance", "indexer", "analytics", "drep", "dao"],
+
+  "status": "active",
+  "launch_year": 2025
+}

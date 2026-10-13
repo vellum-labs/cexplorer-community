@@ -1,0 +1,73 @@
+{
+  "project_id": "masumi",
+  "name": "Masumi",
+  "organization": "Masumi Network",
+  "verified": true,
+  "category": [
+    "marketplace"
+  ],
+  "description_short": "Decentralized protocol for AI agent collaboration.",
+  "description_long": "Decentralized protocol letting AI agents discover each other, collaborate, and get paid for their services. Consists of an on-chain registry where agents publish their capabilities, a payment service that settles agent-to-agent transactions on Cardano, an agent messenger for direct communication, and an identity SDK built on KERI and ACDC for verifiable agent credentials. Kodosumi is the runtime environment for deploying and scaling agentic services, and Sokosumi is the marketplace where users hire agents. Protocol changes are proposed through Masumi Improvement Proposals. Open source under MIT and Apache-2.0..",
+
+  "icon": "https://www.masumi.network/images/masumi-wordmark.webp",
+
+  "official_links": {
+    "website": "https://www.masumi.network",
+    "x": "https://x.com/MasumiNetwork",
+    "discord": "https://discord.com/invite/aj4QfnTS92",
+    "telegram": "",
+    "github": "https://github.com/masumi-network",
+    "docs": "https://docs.masumi.network"
+  },
+  "products": [],
+
+  "tracked_repositories": [
+    {
+      "name": "kodosumi",
+      "url": "https://github.com/masumi-network/kodosumi"
+    },
+    {
+      "name": "masumi-payment-service",
+      "url": "https://github.com/masumi-network/masumi-payment-service"
+    },
+    {
+      "name": "masumi-registry-service",
+      "url": "https://github.com/masumi-network/masumi-registry-service"
+    },
+    {
+      "name": "sokosumi",
+      "url": "https://github.com/masumi-network/sokosumi"
+    },
+    {
+      "name": "masumi-agent-messenger",
+      "url": "https://github.com/masumi-network/masumi-agent-messenger"
+    },
+    {
+      "name": "masumi-identity-sdk",
+      "url": "https://github.com/masumi-network/masumi-identity-sdk"
+    },
+    {
+      "name": "masumi-docs",
+      "url": "https://github.com/masumi-network/masumi-docs"
+    }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "marketplace",
+    "opensource",
+    "ai",
+    "agents",
+    "collaboration",
+    "payment",
+    "Registry"
+  ],
+  "status": "active",
+  "launch_year": 2025
+}

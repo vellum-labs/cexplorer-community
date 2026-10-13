@@ -1,0 +1,40 @@
+{
+  "project_id": "finest",
+  "name": "Finest",
+  "organization": "FI finest Investments GmbH",
+  "verified": true,
+
+  "category": ["rwa"],
+
+  "description_short": "Tokenized real-world asset investing in Europe.",
+  "description_long": "latform for investing in tokenized real-world assets, built as a partnership between NMKR, IAMX, and FluidTokens. Users create an account, top up with a credit card or crypto, and buy fractional ownership of physical assets — tokenized gold (fGLD), silver (fSLVR) backed by LBMA-certified bullion stored and insured in pro aurum vaults, and one-off asset offerings such as Black Galaxy granite. Operates under German and EU securities frameworks, with BaFin and MiCA compliance, and integrates with Cardano DeFi for secondary use of the tokens.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1767641422528757760/hBvW_IzM_400x400.jpg",
+
+  "official_links": {
+    "website": "https://www.finest.investments/",
+    "x": "https://x.com/finest_tokenize",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://finest.investments/strategy-paper"
+  },
+
+  "products": [
+    { "name": "Finest App", "url": "https://app.finest.investments/" },
+    { "name": "fGLD — Tokenized Gold", "url": "https://app.finest.investments/assets/materials/66fbe3b2380f2ff928caafbd" },
+    { "name": "fGRNT — Tokenized Black Galaxy Granite", "url": "https://app.finest.investments/assets/materials/66b75505685877ae05a27d07" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["marketplace", "rwa", "tokenization", "europe", "regulated"],
+
+  "status": "active",
+  "launch_year": 2024
+}

@@ -1,0 +1,42 @@
+{
+  "project_id": "nowpayments",
+  "name": "NOWPayments",
+  "organization": "NOWPayments",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Payment gateway for ada payments and donations.",
+  "description_long": "Non-custodial crypto payment gateway supporting ada alongside 350+ cryptocurrencies and 75+ fiat currencies. Merchants and creators can accept payments through invoices, a payment button or widget, point-of-sale, subscriptions, donation tools, e-commerce plugins, or a developer API, with optional auto-conversion and fiat off-ramp payouts. Fees are 0.5% for single-currency payments and 1% with conversion. Not Cardano-specific — ada is one of many supported assets. Launched by ChangeNOW in 2019, processing over 30 million transactions a month.",
+
+  "icon": "https://nowpayments.io/images/logo/sharing_image.png",
+
+  "official_links": {
+    "website": "https://nowpayments.io",
+    "x": "https://x.com/NOWPayments_io",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/nowpaymentsIO",
+    "docs": "https://documenter.getpostman.com/view/7907941/2s93JusNJt"
+  },
+
+  "products": [
+    { "name": "Cardano (ADA) Payments", "url": "https://nowpayments.io/supported-coins/cardano-payments" },
+    { "name": "Donation Tools", "url": "https://nowpayments.io/donation-tools" },
+    { "name": "Invoices", "url": "https://nowpayments.io/invoices" },
+    { "name": "Point of Sale", "url": "https://nowpayments.io/pos" },
+    { "name": "Development API", "url": "https://nowpayments.io/api" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["other", "payments", "merchant-gateway", "donations"],
+
+  "status": "active",
+  "launch_year": 2019
+}

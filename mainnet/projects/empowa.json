@@ -1,0 +1,56 @@
+{
+  "project_id": "empowa",
+  "name": "Empowa",
+  "organization": "Empowa Technology Ltd",
+  "verified": true,
+
+  "category": ["rwa"],
+
+  "description_short": "RWA housing finance for emerging markets.",
+  "description_long": "Housing-finance platform for the ~85% of families in emerging markets excluded from traditional mortgages. Institutional capital in USD or local currency funds climate-smart, IFC EDGE-certified rent-to-own homes built by vetted in-country developers, while the blockchain community funds a separate over-collateralisation layer by buying Collateral NFTs whose proceeds are held as EMP. NFT holders receive EMP-denominated impact rewards tied to the specific housing cohort they funded, with rent payments and repayments auditable on-chain. Live portfolio in Mozambique reports 99% on-time rent payments and cost of finance cut from over 22% to about 10%.",
+
+  "icon": "https://empowa.io/brand/empowa-logo-2023.svg",
+
+  "official_links": {
+    "website": "https://empowa.io/",
+    "x": "https://x.com/empowa_io",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://www.empowa.io/tokenomics/blackpaper/"
+  },
+
+  "products": [
+    { "name": "Empowa Pay", "url": "https://www.empowa.io/technology/empowa-pay/" },
+    { "name": "Empowa Calculator", "url": "https://www.empowa.io/technology/empowa-calculator/" },
+    { "name": "Empowa Trade", "url": "https://www.empowa.io/technology/empowa-trade/" },
+    { "name": "Rent-to-own", "url": "https://www.empowa.io/products/rent-to-own/" },
+    { "name": "Collateral NFTs", "url": "https://www.empowa.io/projects/?category=collateral" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [ 
+    {
+    "asset_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+    "asset_name": "Empowa",
+    "description": "Empowa utility token (EMP)"
+  }
+],
+
+  "policy": [
+    {
+      "policy_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81",
+      "policy_name": "EMP token policy",
+      "description": "Policy for the Empowa utility token"
+    }
+  ],
+
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["nft", "rwa", "housing", "africa", "climate"],
+
+  "status": "active",
+  "launch_year": 2022
+}

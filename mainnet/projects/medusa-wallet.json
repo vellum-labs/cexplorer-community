@@ -1,0 +1,35 @@
+{
+  "project_id": "medusa-wallet",
+  "name": "Medusa Wallet",
+  "organization": "Medusa Wallet",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Privacy-focused lightweight Cardano wallet.",
+  "description_long": "Lightweight open-source Cardano light wallet focused on privacy and user protection. Keys are never handled in the main browser thread, so third-party code loaded into the page cannot reach them, transfers use a dedicated network-security layer, and the wallet ships without analytics scripts. Supports sending, receiving, storing and staking ada, available in English and Russian, and uses the same recovery phrases as Daedalus and Yoroi. Historically notable as the first publicly available ITN-compatible wallet, released ahead of the ITN versions of Daedalus and Yoroi.",
+
+  "icon": "https://pbs.twimg.com/profile_images/1834225905549418496/8m7Vx40P_400x400.jpg",
+
+  "official_links": {
+    "website": "https://adawallet.io",
+    "x": "https://x.com/MedusaAdaWallet",
+    "discord": "",
+    "telegram": "https://t.me/MedusaAdaWalletEn",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["wallet", "non-custodial", "web", "staking", "privacy"],
+
+  "status": "active",
+  "launch_year": 2019
+}

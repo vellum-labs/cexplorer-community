@@ -1,0 +1,42 @@
+{
+  "project_id": "dripdropz",
+  "name": "DripDropz",
+  "organization": "DDripDropz LLC",
+  "verified": true,
+
+  "category": ["distribution"],
+
+  "description_short": "Token dispensing and airdrop platform.",
+  "description_long": "Token dispensing platform for the Cardano community. Projects can distribute native tokens to stake pool delegators without running their own pool, choosing granular parameters for who is eligible and how much they receive — from a single pool's delegators to every delegator on the chain. Delegates claim a 'grab bag' of tokens each epoch while staying delegated to a community pool of their choice. Also offers an Instant Rewardz API for gamified distribution, multi-token claiming, and on-platform governance voting for $DRIP holders.",
+
+  "icon": "https://dripdropz.io/images/brand/logo.svg",
+
+  "official_links": {
+    "website": "https://dripdropz.io",
+    "x": "https://x.com/DripDropz_io",
+    "discord": "https://discord.gg/BfFCgQyhRU",
+    "telegram": "https://t.me/+vjveM6iyK4Y2MTJh",
+    "github": "",
+    "docs": "https://dripdropz.io/how-it-works"
+  },
+
+  "products": [
+    { "name": "Drip It", "url": "https://dripdropz.io" },
+    { "name": "Instant Rewardz", "url": "https://dripdropz.io/instant-reward" },
+    { "name": "Multi Drip", "url": "https://dripdropz.io/account/multi-drip" },
+    { "name": "Distribute My Token", "url": "https://dripdropz.io/distribute-my-token" },
+    { "name": "Governance Vote", "url": "https://dripdropz.io/vote" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": ["asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p"],
+  "policy": ["af2e27f580f7f08e93190a81f72462f153026d06450924726645891b"],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["distribution", "airdrop", "token-dispense", "staking"],
+
+  "status": "active",
+  "launch_year": 2021
+}

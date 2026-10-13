@@ -1,0 +1,65 @@
+{
+  "project_id": "cgov",
+  "name": "CGOV",
+  "organization": "Nomos Guild",
+  "verified": true,
+  "category": [
+    "governance"
+  ],
+  "description_short": "Governance dashboard for proposals and voting.",
+  "description_long": "An open-source Cardano governance platform for monitoring, tracking, and participating in on-chain governance. Covers all governance action types with live vote tallies, bubble-map and voting-trend visualizations, and exportable voting records (JSON/CSV/Markdown); DRep dashboards with profiles, voting power and voting history; treasury tracking including Net Change Limit (NCL) monitoring; and an AI assistant backed by an open MCP server. Built by Nomos Guild, a joint governance initiative of MeshJS and SIDAN Lab.",
+  "icon": "https://app.cgov.io/nomos.png",
+  "official_links": {
+    "website": "https://app.cgov.io/",
+    "x": "https://x.com/Nomos_guild",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/nomos-guild",
+    "docs": "https://nomos-guild.github.io/cgov-api/"
+  },
+  "products": [
+    { "name": "Proposals", "url": "https://app.cgov.io/" },
+    { "name": "DReps", "url": "https://app.cgov.io/drep" },
+    { "name": "Treasury", "url": "https://app.cgov.io/treasury" },
+    { "name": "AI", "url": "https://app.cgov.io/ai" }
+  ],
+  "tracked_repositories": [
+    {
+      "name": "CGOV",
+      "url": "https://github.com/nomos-guild/cgov"
+    },
+    {
+      "name": "cgov-api",
+      "url": "https://github.com/nomos-guild/cgov-api"
+    },
+    {
+      "name": "cgov-mcp",
+      "url": "https://github.com/nomos-guild/cgov-mcp"
+    },
+    {
+      "name": "cgov-kb",
+      "url": "https://github.com/nomos-guild/cgov-kb"
+    }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "governance",
+    "opensource",
+    "dashboard",
+    "proposals",
+    "voting",
+    "drep",
+    "treasury",
+    "ai",
+    "mcp"
+  ],
+  "status": "active",
+  "launch_year": 2025
+}

@@ -1,0 +1,57 @@
+{
+  "project_id": "optim-finance",
+  "name": "Optim Finance",
+  "organization": "Optim Finance",
+  "verified": true,
+  "category": [
+    "defi"
+  ],
+  "description_short": "Yield optimization suite for Cardano DeFi.",
+  "description_long": "Decentralized suite of yield products on Cardano. Liquidity Bonds let SPOs and projects borrow ada staking rights on-chain while lenders earn a fixed return — used to bootstrap stake for new pools and ISPOs. OADA is a synthetic ada backed 1:1 and always redeemable, with sOADA for staking, giving holders yield plus DeFi composability. Leviathan, an L2 virtual ledger for Cardano with account-based transactions and fast finality, and OTOKEN Strategy Vaults for automated asset allocation are both announced but not yet live. Governance runs through the ODAO.",
+  
+  "icon": "https://www.optim.finance/_next/static/media/full-logo.a084fad3.svg",
+
+  "official_links": {
+    "website": "https://www.optim.finance/",
+    "x": "https://x.com/OptimFi",
+    "discord": "https://discord.gg/VZ329q7x69",
+    "telegram": "",
+    "github": "https://github.com/OptimFinance",
+    "docs": "https://optim-finance.gitbook.io/optim-finance/"
+  },
+
+  "products": [
+    { "name": "Liquidity Bonds", "url": "https://app.optim.finance/bonds" },
+    { "name": "OADA", "url": "https://app.optim.finance/dashboard" },
+    { "name": "Epoch Stake Auction", "url": "https://app.optim.finance/epoch-stake-auction/dashboard" },
+    { "name": "ODAO Voting", "url": "https://dao.optim.finance/" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "leviathan", "url": "https://github.com/OptimFinance/leviathan" },
+    { "name": "oada-ui", "url": "https://github.com/OptimFinance/oada-ui" },
+    { "name": "odao-proposals", "url": "https://github.com/OptimFinance/odao-proposals" },
+    { "name": "public-documents", "url": "https://github.com/OptimFinance/public-documents" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "lending",
+    "yield",
+    "vaults",
+    "auto-compound",
+    "defi",
+    "Governance",
+    "staking"
+  ],
+  
+  "status": "active",
+  "launch_year": 2021
+}

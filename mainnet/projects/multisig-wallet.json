@@ -1,0 +1,39 @@
+{
+  "project_id": "multisig-wallet",
+  "name": "Multisig Wallet",
+  "organization": "MeshJS",
+  "verified": true,
+
+  "category": ["wallet"],
+
+  "description_short": "Multi-signature treasury and governance for teams.",
+  "description_long": "Multi-signature wallet platform for teams, DAOs, and organizations to manage treasury funds and participate in Cardano governance collectively. Wallets are created from native scripts with flexible signing thresholds — all signers, any signer, or at least N of M — and support ada and native tokens. Beyond payments, teams can register as a DRep and vote on governance proposals together, delegate to stake pools, and withdraw staking rewards, all through multi-sig approval. Includes CSV import/export for bulk transactions, ADA Handle resolution, Discord notifications for pending signatures, and a REST API with Swagger docs. Runs on mainnet and preprod, open source under Apache-2.0.",
+
+  "icon": "",
+
+  "official_links": {
+    "website": "https://multisig.meshjs.dev",
+    "x": "",
+    "discord": "https://discord.gg/eyTT9k2KZq",
+    "telegram": "",
+    "github": "https://github.com/MeshJS/multisig",
+    "docs": "https://github.com/MeshJS/multisig#readme"
+  },
+
+  "products": [],
+
+  "tracked_repositories": [
+    { "name": "multisig", "url": "https://github.com/MeshJS/multisig" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["wallet", "non-custodial", "web", "multisig", "governance", "multi-asset", "treasury"],
+
+  "status": "active",
+  "launch_year": 2024
+}

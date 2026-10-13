@@ -1,0 +1,43 @@
+{
+  "project_id": "farmroll",
+  "name": "Farmroll",
+  "organization": "Dice Labs",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "AI-driven community engagement and rewards.",
+  "description_long": "Gamified crypto engagement platform on Cardano. Projects launch interactive campaigns and quests; users complete tasks to earn rewards without any upfront investment, with XP tracking and user profiles. Also offers an AI agent launchpad for automating social interactions, content creation, and on-chain activity. The native $ROLL token is used for rewards, staking, campaign funding, and governance. Originally built as a tool for a crypto casino before expanding into a general engagement hub.",
+
+  "icon": "https://farmroll.io/favicon.png",
+
+  "official_links": {
+    "website": "https://farmroll.io/",
+    "x": "https://x.com/farmroll_io",
+    "discord": "https://discord.com/invite/fxkVbccdaE",
+    "telegram": "",
+    "github": "",
+    "docs": "https://dices-organization.gitbook.io/farmroll"
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+
+  "policy": [
+    {
+      "policy_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+      "policy_name": "ROLL token policy",
+      "description": "Policy for the Farmroll ROLL token"
+    }
+  ],
+
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["other", "community", "engagement", "rewards", "ai", "quests", "gamification", "token"],
+
+  "status": "active",
+  "launch_year": 2024
+}

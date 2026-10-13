@@ -1,0 +1,35 @@
+{
+  "project_id": "mynth",
+  "name": "Mynth",
+  "organization": "Mynth",
+  "verified": true,
+
+  "category": ["infrastructure"],
+
+  "description_short": "Cross-chain swap network for any token pair.",
+  "description_long": "Cross-chain swap network bridging Cardano with any-token-to-any-token routes across multiple chains, alongside the MyUSD stablecoin and an order-book DEX SDK. The Cardano products have since been discontinued — the smart contracts, SDK and stablecoin repositories are archived, and the company has pivoted to an agentic-AI platform for automating software development, unrelated to Cardano.",
+
+  "icon": "https://mynth.ai/logo.png",
+
+  "official_links": {
+    "website": "https://mynth.ai",
+    "x": "https://x.com/_mynth_",
+    "discord": "https://discord.gg/uqheUawd4",
+    "telegram": "",
+    "github": "https://github.com/MynthAI",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["bridge", "cross-chain", "swap", "ai"],
+
+  "status": "active",
+  "launch_year": 2023
+}

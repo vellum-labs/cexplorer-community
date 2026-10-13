@@ -1,0 +1,91 @@
+{
+  "project_id": "charli3",
+  "name": "Charli3",
+  "organization": "Charli3",
+  "verified": true,
+
+  "category": [
+    "infrastructure"
+  ],
+
+  "description_short": "Native decentralized oracle on Cardano.",
+  "description_long": "Decentralized oracle network built natively for Cardano, producing fully auditable data records on the Cardano ledger. Operates both Push oracles, where a network of independent node operators aggregates and publishes price feeds on-chain on a schedule, and Pull (ODV) oracles, where data is requested on demand and settled through multisig consensus. Smart contracts are written in Aiken and Haskell, with Python SDKs and CLIs for deploying oracles and running nodes. Also maintains Dendrite, an open-source Python SDK for reading data from multiple Cardano DEXes, and is building a Substrate-based partner chain with an oracle-specific runtime bridged back to Cardano.",
+  
+  "icon": "https://avatars.githubusercontent.com/u/85084356?s=280&v=4",
+
+  "official_links": {
+    "website": "https://charli3.io",
+    "x": "https://x.com/Oraclecharli3",
+    "discord": "https://discord.com/invite/Tnsc3HCA3A",
+    "telegram": "",
+    "github": "https://github.com/Charli3-Official",
+    "docs": "https://docs.charli3.io"
+  },
+
+  "products": [],
+
+  "tracked_repositories": [
+    {
+      "name": "charli3-dendrite",
+      "url": "https://github.com/Charli3-Official/charli3-dendrite"
+    },
+    {
+      "name": "charli3-pull-oracle-node",
+      "url": "https://github.com/Charli3-Official/charli3-pull-oracle-node"
+    },
+    {
+      "name": "charli3-push-oracle-node",
+      "url": "https://github.com/Charli3-Official/charli3-push-oracle-node"
+    },
+    {
+      "name": "charli3-pull-oracle-sdk",
+      "url": "https://github.com/Charli3-Official/charli3-pull-oracle-sdk"
+    },
+    {
+      "name": "charli3-pull-oracle-contracts",
+      "url": "https://github.com/Charli3-Official/charli3-pull-oracle-contracts"
+    },
+    {
+      "name": "charli3-push-oracle-contracts",
+      "url": "https://github.com/Charli3-Official/charli3-push-oracle-contracts"
+    },
+    {
+      "name": "charli3-substrate-oracle-core",
+      "url": "https://github.com/Charli3-Official/charli3-substrate-oracle-core"
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+      "asset_name": "CHARLI3",
+      "description": "Charli3 oracle network token (C3)"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
+      "policy_name": "C3 token policy",
+      "description": "Policy for the Charli3 C3 token"
+    }
+  ],
+
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "oracle",
+    "decentralized",
+    "data-feeds",
+    "infrastructure",
+    "opensource",
+    "sdk"
+  ],
+
+  "status": "active",
+  "launch_year": 2021
+}

@@ -1,0 +1,39 @@
+{
+  "project_id": "eutxo",
+  "name": "eUTxO",
+  "organization": "eUTxO.org",
+  "verified": true,
+
+  "category": ["data"],
+
+  "description_short": "Visual blockchain explorer for Cardano.",
+  "description_long": "Visual Cardano blockchain explorer built around the eUTxO model. Instead of tables, transactions and blocks are rendered as interactive physics-driven graphs showing how inputs and outputs connect, alongside NFTs, native tokens, and per-block TPS comparisons against account-model chains. Includes a live mempool view, a records page of notable blocks and transactions, dark mode, fullscreen ZEN mode, and shareable screenshots.",
+
+  "icon": "https://eutxo.org/assets/fav/android/android-launchericon-144-144.png",
+
+  "official_links": {
+    "website": "https://eutxo.org",
+    "x": "https://x.com/oravecpeter",
+    "discord": "",
+    "telegram": "",
+    "github": "",
+    "docs": "https://eutxo.org/about"
+  },
+
+  "products": [
+    { "name": "Live Mempool", "url": "https://eutxo.org/mempool/live" },
+    { "name": "Records", "url": "https://eutxo.org/stats/records" }
+],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["explorer", "eutxo", "visualization", "datums", "mempool", "nft", "education"],
+
+  "status": "active",
+  "launch_year": 2022
+}

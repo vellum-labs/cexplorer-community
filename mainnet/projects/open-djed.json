@@ -1,0 +1,37 @@
+{
+  "project_id": "open-djed",
+  "name": "Open DJED",
+  "organization": "Artifi Labs",
+  "verified": true,
+
+  "category": ["defi"],
+
+  "description_short": "Open-source DJED stablecoin minting platform.",
+  "description_long": "ransparent, community-driven interface for minting and burning DJED, Cardano's overcollateralized stablecoin, and its SHEN reserve coin. Built by Artifi Labs as a reverse-engineered, fully open-source alternative to COTI's original DJED application — protocol-compatible and following the same fee structure, but auditable, forkable, and without geographic restrictions or dependence on COTI's uptime. Optimized contracts cut network fees by roughly 0.1 ada per transaction. Licensed under GPL-3.0.",
+
+  "icon": "https://raw.githubusercontent.com/artifi-labs/open-djed/main/packages/docs/static/logos/opendjed-logo-white.svg",
+
+  "official_links": {
+    "website": "https://djed.artifi.finance/",
+    "x": "",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/artifi-labs/open-djed",
+    "docs": "https://docs.djed.artifi.finance"
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Open DJED", "url": "https://github.com/artifi-labs/open-djed" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["other", "opensource", "stablecoin", "djed", "mint"],
+
+  "status": "active",
+  "launch_year": 2025
+}

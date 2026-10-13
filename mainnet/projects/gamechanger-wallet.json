@@ -1,0 +1,54 @@
+{
+  "project_id": "gamechanger-wallet",
+  "name": "GameChanger Wallet",
+  "organization": "GameChanger Finance",
+  "verified": true,
+  "category": [
+    "wallet"
+  ],
+  "description_short": "Non-custodial web meta wallet for Cardano.",
+  "description_long": "Non-custodial web light wallet for Cardano, running on desktop and mobile without an extension. Works as a meta wallet: it can import or connect seed phrases, burner wallets, encrypted QR gift wallets, Ledger and Trezor hardware wallets, any CIP-30 browser extension wallet, and shared treasuries at script addresses. Its Universal Dapp Connector lets dapps, devices, and users communicate with the wallet through URLs, QR codes, and intents rather than a browser extension API, with support for multisig, multi-account, and multi-transaction flows. Includes GCScript, a domain-specific language for building transactions, a built-in Playground IDE, and GCFS for storing dapp code on-chain. Open source under MIT.",
+  "icon": "https://gamechanger.finance/images/_gcw-alpha-rect-gradient-fg.png",
+  "official_links": {
+    "website": "https://gamechanger.finance",
+    "x": "https://x.com/GameChangerOk",
+    "discord": "https://discord.gg/vpbfyRaDKG",
+    "telegram": "",
+    "github": "https://github.com/GameChangerFinance",
+    "docs": "https://gamechangerfinance.github.io/gamechanger.wallet/"
+  },
+  "products": [
+    { "name": "GameChanger Wallet v2", "url": "https://wallet.gamechanger.finance/" },
+    { "name": "Playground IDE", "url": "https://wallet.gamechanger.finance/playground" },
+    { "name": "Gift Wallet Generator", "url": "https://github.com/GameChangerFinance/gift-wallet-generator" },
+    { "name": "NeonSoup", "url": "https://github.com/GameChangerFinance/NeonSoup" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "gamechanger.wallet", "url": "https://github.com/GameChangerFinance/gamechanger.wallet" },
+    { "name": "gamechanger", "url": "https://github.com/GameChangerFinance/gamechanger" },
+    { "name": "NeonSoup", "url": "https://github.com/GameChangerFinance/NeonSoup" },
+    { "name": "unimatrix", "url": "https://github.com/GameChangerFinance/unimatrix" },
+    { "name": "dandelion-lite", "url": "https://github.com/GameChangerFinance/dandelion-lite" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": {
+    "drep_id": "",
+    "name": ""
+  },
+  "pools": [],
+  "tags": [
+    "wallet",
+    "nft",
+    "non-custodial",
+    "browser",
+    "web",
+    "dapp-connector",
+    "multi-asset"
+  ],
+  "status": "active",
+  "launch_year": 2021
+}

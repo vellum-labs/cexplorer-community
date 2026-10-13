@@ -1,0 +1,42 @@
+{
+  "project_id": "chainport",
+  "name": "Chainport",
+  "organization": "Dcentralab",
+  "verified": true,
+
+  "category": ["infrastructure"],
+
+  "description_short": "Bridge between EVM chains and Cardano.",
+  "description_long": "Security-focused cross-chain bridge supporting 25+ blockchain ecosystems, with Cardano among them. Tokens can be ported between any supported chains without reverting to the original chain. Supports several bridging architectures — wrapped asset bridging, native token bridging, hybrid, private and whitelabel bridges — and charges a 0.3% fee per port. Security model keeps up to 98% of funds in multi-sig cold storage via Gnosis Safe and Fireblocks MPC, with contracts audited by Certik, Trail of Bits, Zokyo, and Cyber Unit. Provides wADA, a wrapped version of ada on EVM chains, and a public transparency dashboard with proof-of-reserves. Built by Dcentralab.",
+
+  "icon": "https://cdn.prod.website-files.com/60758ea3c409467c76eb1dfe/65226dc57c23f39276897832_Logo%20header.svg",
+
+  "official_links": {
+    "website": "https://www.chainport.io/",
+    "x": "https://x.com/chain_port",
+    "discord": "",
+    "telegram": "https://t.me/chainport_news",
+    "github": "",
+    "docs": "https://docs.chainport.io"
+  },
+
+  "products": [
+    { "name": "ChainPort App", "url": "https://app.chainport.io/" },
+    { "name": "Cardano Bridge", "url": "https://www.chainport.io/cardano-bridge" },
+    { "name": "wADA — Wrapped ADA", "url": "https://www.chainport.io/wada" },
+    { "name": "ChainPort Explorer", "url": "https://app.chainport.io/explore" },
+    { "name": "Transparency Dashboard", "url": "https://www.chainport.io/transparency" }
+  ],
+
+  "tracked_repositories": [],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["bridge", "evm", "cross-chain", "Wrapped", "multi-chain", "audited"],
+
+  "status": "active",
+  "launch_year": 2021
+}

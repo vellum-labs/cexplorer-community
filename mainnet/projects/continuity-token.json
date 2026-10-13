@@ -1,0 +1,37 @@
+{
+  "project_id": "continuity-token",
+  "name": "Continuity Token",
+  "organization": "Continuity",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Cold-storage backups of Cardano NFT media.",
+  "description_long": "Token-gated backup service for Cardano NFT media, which typically lives off-chain on IPFS and survives only as long as someone keeps pinning it. Holding Continuity Tokens in a wallet automatically enrolls its assets: each token covers 2 GB and unlocks a tier — Hot (multi-server global pinning, refreshed every epoch, 10+ years), Cold (archival M-DISC media stored in an EN 1143-1 grade-10 underground safe, 100+ years), and Arctic (data written to piqlFilm and deposited in the Arctic World Archive in Svalbard, 1,000+ years). Backed by a distributed group of 'Continuity Angels' holding access to cold storage as a failsafe. Used by SpaceBudz and Cardano Pages.",
+
+  "icon": "https://continuity.to/images/logo/logo_black.svg",
+
+  "official_links": {
+    "website": "https://continuity.to/",
+    "x": "https://x.com/continuity_to",
+    "discord": "https://discord.gg/Ej5eAbZnrH",
+    "telegram": "",
+    "github": "https://github.com/continuity-to",
+    "docs": ""
+  },
+
+  "products": [],
+  "tracked_repositories": [
+    { "name": "Continuity", "url": "https://github.com/continuity-to" }
+  ],
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["notary", "nft", "cold-storage", "backup", "ipfs", "arweave"],
+
+  "status": "active",
+  "launch_year": 2023
+}

@@ -1,0 +1,52 @@
+{
+  "project_id": "clarity-protocol",
+  "name": "Clarity Protocol",
+  "organization": "Clear Contracts, Inc.",
+  "verified": true,
+
+  "category": ["governance"],
+
+  "description_short": "Governance and DAO toolkit for Cardano communities.",
+  "description_long": "Governance infrastructure for Cardano projects and DAOs. Runs the full proposal lifecycle — off-chain polls, on-chain proposals with automated outcome execution, multi-stage ratification pipelines, and audit trails — with one-member-one-vote, token-weighted, and DRep/SPO delegation-weighted snapshots. Also covers treasury management with multi-sig and native asset support, staking portals, contributor reward programs, reputation and leaderboards, Discord sync, whitelabel branding, and an API/SDK. Used by teams including Cardano Builder DAO, Indigo Protocol, SundaeSwap, FluidTokens, and Intersect, which ran the Cardano Constitutional Convention vote on the platform.",
+
+  "icon": "https://www.clarity.community/ClarityC.svg",
+
+  "official_links": {
+    "website": "https://www.clarity.community/",
+    "x": "https://x.com/clarity_dao",
+    "discord": "https://discord.com/invite/SUWpTtsJaA",
+    "telegram": "",
+    "github": "",
+    "docs": "https://docs.clarity.vote/"
+  },
+
+  "products": [
+    { "name": "Clarity App", "url": "https://www.clarity.vote/" }
+  ],
+  "tracked_repositories": [],
+
+  "assets": [
+    {
+      "asset_id": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b436c61726974792044414f20546f6b656e",
+      "asset_name": "Clarity DAO Token",
+      "description": "Clarity governance and utility token (CLARITY)"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b",
+      "policy_name": "CLARITY token policy",
+      "description": "Policy for the Clarity DAO governance token"
+    }
+  ],
+
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["governance", "dao", "proposals", "voting", "treasury"],
+
+  "status": "active",
+  "launch_year": 2022
+}

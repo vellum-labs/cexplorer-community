@@ -1,0 +1,47 @@
+{
+  "project_id": "lido-nation",
+  "name": "Lido Nation",
+  "organization": "Lido Nation",
+  "verified": true,
+
+  "category": ["tooling"],
+
+  "description_short": "Blockchain education, tools, and community building.",
+  "description_long": "Blockchain education, outreach, and global community building on Cardano. Publishes a multilingual library of explainers, insights, and news in six languages, produces the Lido Minute podcast, and runs the LIDO stake pool with an Every Epoch learn-and-earn rewards program. Also builds ecosystem tools, most notably Catalyst Explorer — a full explorer for Project Catalyst proposals, funding rounds, reviewers, and charts — plus a Cardano protocol parameter explorer and a community bazaar.",
+
+  "icon": "https://www.lidonation.com/img/llogo-transparent.png",
+
+  "official_links": {
+    "website": "https://www.lidonation.com/",
+    "x": "https://x.com/LidoNation",
+    "discord": "",
+    "telegram": "",
+    "github": "https://github.com/lidonation",
+    "docs": ""
+  },
+
+  "products": [
+    { "name": "Catalyst Explorer", "url": "https://www.catalystexplorer.com/" },
+    { "name": "Library", "url": "https://www.lidonation.com/en/library" },
+    { "name": "Lido Minute", "url": "https://www.lidonation.com/en/lido-minute" },
+    { "name": "Parameter Explorer", "url": "https://www.lidonation.com/en/cardano-parameters" },
+    { "name": "Every Epoch", "url": "https://www.lidonation.com/en/delegators" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "catalystexplorer", "url": "https://github.com/lidonation/catalystexplorer" },
+  { "name": "Cardano-mcp", "url": "https://github.com/lidonation/Cardano-mcp" },
+  { "name": "www.1694.io", "url": "https://github.com/lidonation/www.1694.io" }
+],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["ecosystem", "catalyst", "proposals", "drep", "aggregator"],
+
+  "status": "active",
+  "launch_year": 2020
+}

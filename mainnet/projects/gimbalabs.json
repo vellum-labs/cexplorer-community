@@ -1,0 +1,50 @@
+{
+  "project_id": "gimbalabs",
+  "name": "Gimbalabs",
+  "organization": "Gimbalabs",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Project-based learning community for Cardano dApps.",
+  "description_long": "Open, replicable spaces to learn and collaborate on Cardano. Gimbalabs runs project-based learning programs where participants build real dApps and open-source tools rather than following tutorials — including Plutus PBL, Aiken, Marlowe, and Cardano Go courses. Also operates Dandelion, a set of open Cardano API endpoints, runs the Piece of Pie Hackathon and a Cardano bounties platform, maintains community governance tooling, and acts as a DRep.",
+
+  "icon": "https://avatars.githubusercontent.com/u/73429691?s=280&v=4",
+
+  "official_links": {
+    "website": "https://gimbalabs.com",
+    "x": "https://x.com/gimbalabs",
+    "discord": "https://discord.gg/BvwrpTCcre",
+    "telegram": "",
+    "github": "https://github.com/gimbalabs",
+    "docs": "https://gimbalabs.notion.site/ff0d7c3cd1634a42bf554693c7da408c"
+  },
+
+  "products": [
+    { "name": "Plutus PBL", "url": "https://plutuspbl.io/" },
+    { "name": "Dandelion", "url": "https://www.gimbalabs.com/dandelion" },
+    { "name": "Piece of Pie Hackathon", "url": "https://www.gimbalabs.com/piece-of-pie-yearbook" },
+    { "name": "Cardano Bounties Platform", "url": "https://www.gimbalabs.com/bounties-platform" },
+    { "name": "Community Feedback Tooling", "url": "https://www.gimbalabs.com/tooling" }
+  ],
+
+  "tracked_repositories": [
+    { "name": "gimbalabs.com", "url": "https://github.com/gimbalabs/gimbalabs.com" },
+    { "name": "cardano-go-pbl-2026", "url": "https://github.com/gimbalabs/cardano-go-pbl-2026" },
+    { "name": "aiken-pbl-examples", "url": "https://github.com/gimbalabs/aiken-pbl-examples" },
+    { "name": "ppbl2024-front-end", "url": "https://github.com/gimbalabs/ppbl2024-front-end" },
+    { "name": "Piece-of-Pie-Hackathon", "url": "https://github.com/gimbalabs/Piece-of-Pie-Hackathon" },
+    { "name": "gimbalabs-drep", "url": "https://github.com/gimbalabs/gimbalabs-drep" }
+  ],
+
+  "assets": [],
+  "policy": [],
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["education", "opensource", "community", "learning", "dapps"],
+
+  "status": "active",
+  "launch_year": 2021
+}

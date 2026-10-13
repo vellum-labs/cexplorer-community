@@ -1,0 +1,57 @@
+{
+  "project_id": "infinity-rising",
+  "name": "Infinity Rising",
+  "organization": "nfinity Rising",
+  "verified": true,
+
+  "category": ["other"],
+
+  "description_short": "Open-world sandbox MMO and multiverse simulator.",
+  "description_long": "Open-world sandbox MMO and multiverse simulator set between Cornucopias, the nation in the sky, the broken Earth below, and the worlds which lie beyond. Players explore, survive, gather, craft, build, trade, and defend across large maps, with casual building in Hub City apartments alongside high-stakes combat outside safe zones. Player-owned in-game assets are held on-chain and the RISE token powers the store, staking, and governance. Currently in early access ahead of beta, wishlistable on Steam and Epic Games.",
+
+  "icon": "https://pbs.twimg.com/profile_images/2053876575318450176/JQ6bFrHO_400x400.jpg",
+
+  "official_links": {
+    "website": "https://infinityrising.com",
+    "x": "https://x.com/InfinityRisingX",
+    "discord": "https://discord.com/invite/InfinityRising",
+    "telegram": "",
+    "github": "",
+    "docs": "https://wiki.infinityrising.com/"
+  },
+
+  "products": [ 
+    { "name": "Infinity Rising on Steam", "url": "https://store.steampowered.com/app/4022970/Infinity_Rising/" },
+    { "name": "Infinity Rising on Epic Games", "url": "https://store.epicgames.com/en-US/p/infinity-rising-9f8184" },
+    { "name": "Store", "url": "https://infinityrising.com/store" },
+    { "name": "Early Access", "url": "https://infinityrising.com/early-access" },
+    { "name": "Public Pools Dashboard", "url": "https://infinityrising.com/nodes/pools" }
+],
+
+  "tracked_repositories": [],
+
+  "assets": [
+    {
+      "asset_id": "31bdb2d8ed6e2623e121b6db134a1491f4252b9ea87d928eb5290026496e66696e69747920526973696e67",
+      "asset_name": "Infinity Rising",
+      "description": "RISE utility token of the Infinity Rising ecosystem"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "31bdb2d8ed6e2623e121b6db134a1491f4252b9ea87d928eb5290026",
+      "policy_name": "RISE token policy",
+      "description": "Policy for the RISE token on Cardano"
+    }
+  ],
+
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["game", "mmo", "sandbox", "gamefi", "nft", "metaverse"],
+
+  "status": "active",
+  "launch_year": null
+}

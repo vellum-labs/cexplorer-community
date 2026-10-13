@@ -1,0 +1,61 @@
+{
+  "project_id": "muesliswap",
+  "name": "MuesliSwap",
+  "organization": "MuesliSwap",
+  "verified": true,
+
+  "category": ["dex"],
+
+  "description_short": "Order-book DEX on Cardano.",
+  "description_long": "The first DEX to launch on Cardano. Started as a pure order-book exchange with on-chain limit orders matched by a decentralized matchmaker network, and later added liquidity pools, so it now runs a hybrid model combining order book and AMM liquidity. Also offers yield farming, token verification lists used across the ecosystem, and a public API. Smart contracts are open source, written in Haskell. Operates on Cardano and Milkomeda.",
+
+  "icon": "https://avatars.githubusercontent.com/u/91151317?v=4",
+
+  "official_links": {
+    "website": "https://muesliswap.com/",
+    "x": "https://x.com/MuesliSwapTeam",
+    "discord": "https://discord.com/invite/vHzSXRWBJR",
+    "telegram": "https://t.me/muesliswapADA",
+    "github": "https://github.com/MuesliSwapTeam",
+    "docs": "https://docs.muesliswap.com"
+  },
+
+  "products": [],
+
+  "tracked_repositories": [
+    { "name": "muesliswap-cardano-contracts", "url": "https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts" },
+    { "name": "muesliswap-cardano-pool-contracts", "url": "https://github.com/MuesliSwapTeam/muesliswap-cardano-pool-contracts" },
+    { "name": "muesliswap-myield-contracts", "url": "https://github.com/MuesliSwapTeam/muesliswap-myield-contracts" },
+    { "name": "muesliswap-token-verification", "url": "https://github.com/MuesliSwapTeam/muesliswap-token-verification" }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+      "asset_name": "MILK",
+      "description": "MuesliSwap MILK v1 governance token (legacy, migrated to MILKv2)"
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
+      "policy_name": "MILKv2 token policy",
+      "description": "Current policy for the MuesliSwap MILK governance token"
+    },
+    {
+      "policy_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",
+      "policy_name": "MILK v1 token policy",
+      "description": "Original MILK policy, superseded by MILKv2 in January 2024"
+    }
+  ],
+
+  "scripts": [],
+  "drep": { "drep_id": "", "name": "" },
+  "pools": [],
+
+  "tags": ["dex", "order-book", "limit-orders", "AMM", "yield-farming", "cross-chain"],
+
+  "status": "active",
+  "launch_year": 2021
+}
